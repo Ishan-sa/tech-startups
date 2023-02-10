@@ -1,0 +1,3292 @@
+[
+  {
+    "id": 1,
+    "company_name": "Forward Networks",
+    "headline": "Network automation software for a stronger, more reliable network. realize network assurance",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Recently funded",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.forwardnetworks.com/",
+    "employees": "11-50",
+    "about": "The software used to manage networks hasn’t kept up with the dramatic expansion of networks themselves. The Forward Networks solution is designed to help network teams eliminate network outages and reduce time to remediate errors. Its platform enables engineers and operators to visualize and search complex networks, debug configuration problems, verify network-wide policy implementations, and predict network behavior prior to deploying changes. Forward Networks builds a software replica of an entire network to analyze its behavior. Using the network copy, the software traces, indexes, and stores the collected data, monitoring things like end-to-end behavior, verification of the network’s forwarding behavior and security posture, and close monitoring of configuration changes.",
+    "locations": ["Palo Alto"],
+    "industries": [
+      "Enterprise Software",
+      "Information Technology",
+      "Networking",
+      "Software",
+      "Computers"
+    ],
+    "jobs": {
+      "Engineering": 7,
+      "Founder": 2,
+      "Investor": 1,
+      "Marketing": 1,
+      "Other Engineering": 6,
+      "Product": 1,
+      "Sales": 13
+    }
+  },
+  {
+    "id": 2,
+    "company_name": "Wise",
+    "headline": "We're on a mission to bring transparency to finance. Affordable and clear",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Recently funded",
+      "Same investor as Apple",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://wise.com",
+    "employees": "1001-5000",
+    "about": "Current banking systems don’t let us send, spend or receive money across borders easily. Or quickly. Or cheaply. So we’re building a new one. We won’t stop until everyone can send, spend and receive money wherever they are, in any currency. But we can’t do it alone. We’re growing incredibly fast and there’s still lots to get done. Visit wise.jobs to join us.",
+    "locations": [
+      "New York City",
+      "Singapore",
+      "London",
+      "Tampa",
+      "Budapest",
+      "Tallinn",
+      "Cherkasy"
+    ],
+    "industries": [
+      "Financial Services",
+      "Consumers",
+      "Payments",
+      "Peer-to-Peer",
+      "Finance",
+      "P2P Money Transfer",
+      "Fin Tech"
+    ],
+    "jobs": {
+      "Designer": 13,
+      "Engineering": 103,
+      "Founder": 117,
+      "Investor": 188,
+      "Management": 1,
+      "Marketing": 32,
+      "Product": 25,
+      "Sales": 25
+    }
+  },
+  {
+    "id": 3,
+    "company_name": "Benchling",
+    "headline": "Informatics platform to accelerate, measure, and forecast R&D from discovery through bioprocessing",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.benchling.com",
+    "employees": "201-500",
+    "about": "Benchling makes life science research faster and more collaborative. Biotechnology has the potential to solve humanity’s most pressing challenges, such as disease, renewable energy, clean water, and hunger. The brightest minds are working on these problems but they are equipped with archaic tools. We aspire to fix this and increase the rate of scientific output with a platform for researchers to design and run experiments, analyze data, and share results.",
+    "locations": ["Boston", "San Francisco"],
+    "industries": [
+      "Biotechnology",
+      "Life Sciences",
+      "Enterprise Software",
+      "Healthcare",
+      "Synthetic Biology",
+      "Bioinformatics",
+      "Software",
+      "Cloud Data Services",
+      "Renewable Energies"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 13,
+      "Founder": 7,
+      "Investor": 10,
+      "Marketing": 2,
+      "Product": 1,
+      "Sales": 17
+    }
+  },
+  {
+    "id": 4,
+    "company_name": "Tulip Interfaces",
+    "headline": "The Leader in Frontline Operations",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Uber",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://tulip.co",
+    "employees": "51-200",
+    "about": "Tulip, the Frontline Operations Platform, is empowering the world’s leading manufacturers to improve the productivity of their teams, the quality of their output, and the efficiency of their operations. With Tulip’s no-code platform, manufacturers can empower those closest to operations to digitally transform their facilities and gain real-time visibility into the people, machines and processes involved in production--all in a matter of days. Manufacturers of all sizes, across industries including consumer electronics, aerospace and defense, contract manufacturing, automotive, apparel, medical devices and more, have implemented Tulip’s intuitive platform to solve some of the most pressing challenges in manufacturing: error-proofing processes with guided workflows, integrating industrial IoT (IIoT) technologies with legacy factory machines, and capturing and analyzing real-time production floor data. A spinoff out of MIT, the company is headquartered in Somerville, MA, with offices in the UK and Germany. It has been recognized as a MES Challenger on the Gartner Magic Quadrant, Frost and Sullivan Entrepreneurial Company of the year and a World Economic Forum Technology Pioneer. You can learn more and get started for free at Tulip.co.",
+    "locations": ["Boston", "Munich", "Budapest", "Somerville"],
+    "industries": [
+      "Enterprise Software",
+      "Manufacturing",
+      "Analytics",
+      "Business Productivity",
+      "Productivity Software",
+      "Internet of Things",
+      "Web Development",
+      "Enterprise Application"
+    ],
+    "jobs": {
+      "Engineering": 13,
+      "Founder": 16,
+      "Investor": 2,
+      "Marketing": 3,
+      "Other Engineering": 1,
+      "Product": 2,
+      "Sales": 15
+    }
+  },
+  {
+    "id": 5,
+    "company_name": "Astranis",
+    "headline": "Building next-generation internet satellites to get the world online",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.astranis.com/",
+    "employees": "51-200",
+    "about": "Four billion people do not have access to the internet. Astranis is going to change that. We are building the next generation of smaller, lower-cost telecommunications satellites to bring the world online.",
+    "locations": ["San Francisco"],
+    "industries": ["Internet", "Telecommunications", "Aerospace"],
+    "jobs": {
+      "Engineering": 9,
+      "Founder": 3,
+      "Investor": 21,
+      "Marketing": 6,
+      "Other Engineering": 24,
+      "Product": 9
+    }
+  },
+  {
+    "id": 6,
+    "company_name": "Smartcar",
+    "headline": "The car API for developers",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://smartcar.com",
+    "employees": "11-50",
+    "about": "Founded in 2015, Smartcar is the leading developer platform for mobility businesses. We’ve raised $24 million in Series B financing led by Energize Ventures with follow-on participation from Andreessen Horowitz (a16z) and New Enterprise Associates (NEA). From auto insurance to fleet management, businesses of all kinds use our APIs to verify vehicle mileage, issue digital car keys, manage EV charging, and track fleets. To name a few, the peer-to-peer car sharing marketplace Turo, the auto insurance provider Marshmallow, and the electric utility Green Mountain Energy use our platform to build and scale their mobility services. By making it easy to connect to their customers’ vehicles, Smartcar allows these companies to focus on what’s important: building the future of mobility.",
+    "locations": ["California", "Texas", "New York"],
+    "industries": [
+      "Automotive",
+      "Developer APIs",
+      "Apps",
+      "Software",
+      "Mobility"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 5,
+      "Founder": 2,
+      "Investor": 1,
+      "Marketing": 3,
+      "Product": 1,
+      "Sales": 6
+    }
+  },
+  {
+    "id": 7,
+    "company_name": "Dataiku",
+    "headline": "Everyday AI, Extraordinary People",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Recently funded",
+      "Same investor as Groupon",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.dataiku.com/",
+    "employees": "1001-5000",
+    "about": "Dataiku is the platform for Everyday AI, systemizing the use of data for exceptional business results. By making the use of data and AI an everyday behavior, Dataiku unlocks the creativity within individual employees to power collective success at companies of all sizes and across all industries. Don’t get us wrong: we are a tech company building software. Our culture is even pretty geeky! But our driving force is and will always remain people, starting with ours. We consider our employees to be our most precious asset, and we are committed to ensuring that each of them gets the most rewarding, enjoyable, and memorable work experience with us. Headquartered in New York City, Dataiku was founded in Paris in 2013 and achieved unicorn status in 2019. Now, more than 800 employees work across the globe in our offices and remotely. Backed by a renowned set of investors and partners including CapitalG, Tiger Global, and Serena, we’ve set out to build the future of AI. Let’s do it together!",
+    "locations": [
+      "Denver",
+      "Dubai",
+      "New York City",
+      "Singapore",
+      "London",
+      "Amsterdam",
+      "Paris",
+      "New York",
+      "Sydney"
+    ],
+    "industries": [
+      "Enterprise Software",
+      "Analytics",
+      "Machine Learning",
+      "Big Data",
+      "Artificial Intelligence",
+      "Data Integration",
+      "Predictive Analytics"
+    ],
+    "jobs": {
+      "Designer": 2,
+      "Engineering": 48,
+      "Founder": 15,
+      "Investor": 11,
+      "Marketing": 2,
+      "Other Engineering": 4,
+      "Product": 1,
+      "Sales": 90
+    }
+  },
+  {
+    "id": 8,
+    "company_name": "Ro",
+    "headline": "We are Ro, a mission-driven healthcare technology company",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Snapchat",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.ro.co/",
+    "employees": "51-200",
+    "about": "Ro puts you in control of your health. We’re patients, just like you, building technology to make healthcare accessible, affordable, and maybe even enjoyable. Today, we enable you to connect with a doctor and get treatment when and where you need it. Tomorrow, we aspire to be your first call for all your healthcare needs.",
+    "locations": ["New York City", "New York"],
+    "industries": ["Healthcare", "Fitness", "Corporate Wellness"],
+    "jobs": {
+      "Designer": 2,
+      "Engineering": 5,
+      "Founder": 5,
+      "Investor": 11,
+      "Marketing": 5,
+      "Product": 5
+    }
+  },
+  {
+    "id": 9,
+    "company_name": "DataGrail",
+    "headline": "We believe in a world where people can be in control of their privacy and identity",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Recently funded",
+      "Same investor as Warby Parker",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://datagrail.io",
+    "employees": "51-200",
+    "about": "We're developing the privacy platform modern brands rely on to build customer trust and transparency. We untangle the complexity of data privacy and help brands build privacy programs that work, giving them an easy-to-use platform to automate and scale privacy, and stay compliant with regulations like GDPR, CCPA, and CPRA. With 900+ pre-built connections with popular apps and infrastructure, the DataGrail Integrations Network is the first of its kind to detect shadow IT that may contain personal data, ensuring the most accurate data discovery. DataGrail services millions of consumers, through companies like Overstock, Restoration Hardware, NETGEAR, and Outreach, and has 4.8/5 stars on G2. DataGrail is backed by leading VCs and strategic investors, including Felicis Ventures, Operator Collective, Okta Ventures, HubSpot Ventures, and DocuSign Ventures. Visit www.datagrail.io to learn more.",
+    "locations": ["San Francisco"],
+    "industries": [
+      "Enterprise Software",
+      "Sales and Marketing",
+      "Security",
+      "Big Data",
+      "Privacy",
+      "Legal",
+      "Software Compliance",
+      "Marketing Automation",
+      "Marketing"
+    ],
+    "jobs": { "Designer": 1, "Engineering": 1, "Founder": 2, "Sales": 3 }
+  },
+  {
+    "id": 10,
+    "company_name": "Earnin",
+    "headline": "We're fighting unfairness in the financial system. You worked today. Get paid today",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Warby Parker",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.earnin.com",
+    "employees": "51-200",
+    "about": "Earnin’s mission is simple: we are building a financial system that works for people. That means a system that serves people’s interests (not banks, corporations, or the very rich), powered by the best technology Silicon Valley has to offer. Launched in 2014, The Earnin app allows anyone with a job and a bank account to get paid the minute they leave work — right from their smartphone. There are no fees, no interest, no hidden costs. Instead, Earners support the service by tipping what they think is fair. Because we believe we’re all in this together — people, trying to create a better system. Earnin’s funding partners include Andreessen Horowitz, Matrix Partners, Ribbit Capital, Felicis Ventures, March Capital Partners, Trinity Ventures, Thrive Capital, and Camp One Ventures.",
+    "locations": ["Palo Alto", "Loveland", "Henderson"],
+    "industries": [
+      "Financial Services",
+      "E-Commerce",
+      "Payments",
+      "Mobile Payments",
+      "Fin Tech"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 29,
+      "Founder": 5,
+      "Investor": 3,
+      "Marketing": 3,
+      "Product": 2,
+      "Sales": 2
+    }
+  },
+  {
+    "id": 11,
+    "company_name": "Pantheon Platform",
+    "headline": "Provides website tools, organization and hosting for businesses",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://pantheon.io/",
+    "employees": "51-200",
+    "about": "We build best-in-class WordPress and Drupal sites with agile workflows, scalable infrastructure, and a lightning-fast content delivery network. We run your sites on the fastest WebOps Platform on the planet. This includes our unrivaled speed, uptime, and scalability make our high-performance WebOps platform the best place to host WordPress and Drupal sites. We are the only hosting platform to include fully managed and free HTTPS certificates, automated backups, and one-click updates for all WebOps platform plans.",
+    "locations": ["San Francisco"],
+    "industries": [
+      "Internet",
+      "SaaS",
+      "Enterprise Software",
+      "Infrastructure",
+      "Application Platforms",
+      "Software",
+      "Content",
+      "Web Development",
+      "Web CMS",
+      "Cloud Infrastructure"
+    ],
+    "jobs": {
+      "Engineering": 6,
+      "Founder": 1,
+      "Investor": 3,
+      "Marketing": 1,
+      "Product": 1,
+      "Sales": 8
+    }
+  },
+  {
+    "id": 12,
+    "company_name": "MadKudu",
+    "headline": "The PLG platform of choice for B2B companies looking to turn product users into customers",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Recently funded",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.madkudu.com",
+    "employees": "11-50",
+    "about": "MadKudu helps B2B revenue teams monetize their product-led engine without reliance on engineering or technical teams. With the prescriptive and actionable insights provided through the MadKudu platform, sales and marketers know who to engage with, when, why, and how. Learn more at .",
+    "locations": ["Mountain View", "Paris"],
+    "industries": [
+      "SaaS",
+      "B2B",
+      "Lead Generation",
+      "Developer APIs",
+      "Sales Automation",
+      "Customer Service",
+      "Predictive Analytics",
+      "Marketing Automation",
+      "Customer Experience",
+      "Loyalty"
+    ],
+    "jobs": { "Engineering": 3, "Founder": 1, "Investor": 1, "Sales": 4 }
+  },
+  {
+    "id": 13,
+    "company_name": "Common",
+    "headline": "City living made better",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Twitter",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.common.com/",
+    "employees": "51-200",
+    "about": "Common is the nation’s leading residential brand and operating platform that designs, leases, and manages multifamily properties that appeal to today's renters. Through smart design and tech-enabled property management, Common delivers exceptional experiences to thousands of residents in coliving, microunit, and traditional apartments in cities from coast to coast. Founded in October 2015, we are the preferred choice for renters looking for a stress-free apartment from a trusted brand, and for real estate owners seeking reliable, above-market returns. We challenge ourselves every day not just to think about ways to make city living better, but to activate those ideas in meaningful ways. Our team is comprised of real estate professionals, designers, engineers, salespeople, marketers, member service representatives, and so much more. We work collaboratively, value self-startership, and embrace a “whatever it takes” mentality to ensure our work is done and done well. Common sits squarely at the intersection between technology and real estate, working every day to build quality residential solutions that bring positive change to the world’s rental housing crisis. It’s an exciting time to be part of Common’s team. With over 17,500 units signed and under development and over $110 million in global venture capital investment, Common is expanding it’s reliable, renter-first property operations to 26 cities across the world.",
+    "locations": ["New York City"],
+    "industries": [
+      "Real Estate",
+      "Communities",
+      "Consulting",
+      "Collaboration",
+      "Property Management",
+      "New Product Development"
+    ],
+    "jobs": { "Founder": 3, "Investor": 21 }
+  },
+  {
+    "id": 14,
+    "company_name": "Platform Science",
+    "headline": "Delivering the best in-cab experience for drivers, giving them complete control of your technology",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Flexport",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.platformscience.com/",
+    "employees": "51-200",
+    "about": "Through the development of a first of its kind open platform, Platform Science provides the hardware and software that allows clients to fully capture, analyze and apply a wealth of data, dramatically increasing performance, compliance, time management and savings.",
+    "locations": ["San Diego", "La Jolla"],
+    "industries": [
+      "SaaS",
+      "Transportation",
+      "Software",
+      "Internet of Things",
+      "Computers",
+      "Logistics Software"
+    ],
+    "jobs": {
+      "Engineering": 10,
+      "Founder": 1,
+      "Investor": 5,
+      "Product": 3,
+      "Sales": 5
+    }
+  },
+  {
+    "id": 15,
+    "company_name": "Canary Technologies",
+    "headline": "Easy, intuitive, and secure hotel solutions",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Recently funded",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.canarytechnologies.com/",
+    "employees": "11-50",
+    "about": "Modernizing the hotel technology stack with cloud-based solutions to improve antiquated workflows. Canary’s founders have extensive experience in hospitality. Hospitality is at the core of our values, and we understand the nuances of what goes on behind the scenes at a property. We believe that the guest comes first, and solutions should enhance the guest experience.",
+    "locations": ["San Francisco", "New York"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Payments",
+      "Hospitality",
+      "Hotels",
+      "Software"
+    ],
+    "jobs": {
+      "Designer": 2,
+      "Engineering": 3,
+      "Founder": 6,
+      "Marketing": 8,
+      "Product": 3,
+      "Sales": 12
+    }
+  },
+  {
+    "id": 16,
+    "company_name": "Tessian",
+    "headline": "Tessian is a leading cloud email security platform",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.tessian.com/",
+    "employees": "201-500",
+    "about": "Tessian is a leading cloud email security platform that intelligently protects organizations against advanced threats and data loss on email, while coaching people about security threats in-the-moment. Using machine learning and behavioral data science, Tessian automatically stops threats that evade legacy Secure Email Gateways, including advanced phishing attacks, business email compromise, accidental data loss and insider threats. Tessian’s intelligent approach not only strengthens email security but also builds smarter security cultures in the modern enterprise. Founded in 2013, Tessian is backed by legendary investors such as March Capital, Sequoia, Accel and Balderton, and has been recognized as one of Fast Company’s Most Innovative Companies for 2022. Request a demo here:",
+    "locations": ["Austin", "Boston", "London"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Professional Services",
+      "Email",
+      "Information Security",
+      "Cyber Security"
+    ],
+    "jobs": {
+      "Engineering": 6,
+      "Founder": 1,
+      "Investor": 3,
+      "Management": 1,
+      "Marketing": 1,
+      "Product": 2
+    }
+  },
+  {
+    "id": 17,
+    "company_name": "OneSignal",
+    "headline": "Self-serve customer engagement solution for Push Notifications, Email, SMS, & In-App",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Recently funded",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://onesignal.com/",
+    "employees": "51-200",
+    "about": "We’re a market-leading customer messaging and engagement solution, offering mobile and web push notifications, in-app messaging, SMS, and email. Our powerful multi-channel platform enables one million businesses to deliver over 8 billion messages daily. Powered by superior architecture, OneSignal is designed to scale and deliver messages more quickly and reliably than the competition. By providing an open API, extensive documentation, free accounts, and intuitive personalization and analytics tools, we help businesses of all sizes provide a seamless messaging experience to create meaningful customer connections.",
+    "locations": [
+      "California",
+      "New York City",
+      "Pennsylvania",
+      "Singapore",
+      "Texas",
+      "London",
+      "United Kingdom",
+      "San Mateo",
+      "New York"
+    ],
+    "industries": [
+      "Mobile",
+      "Enterprise Software",
+      "Advertising Platforms",
+      "Apps",
+      "Developer Tools",
+      "Cloud Infrastructure",
+      "App Marketing",
+      "Marketing Automation",
+      "Marketing",
+      "Digital Marketing",
+      "Consumer Engagement"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 5,
+      "Founder": 1,
+      "Marketing": 4,
+      "Product": 1,
+      "Sales": 4
+    }
+  },
+  {
+    "id": 18,
+    "company_name": "Dashlane",
+    "headline": "Make security simple for millions of organizations and their people",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Yelp",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.dashlane.com",
+    "employees": "201-500",
+    "about": "Dashlane's mission is to make security simple for millions of organizations and their people. We empower businesses of every size to protect company and employee data while helping everyone easily log in to the accounts they need—anytime, anywhere. Our global team with offices in Paris, New York, and Lisbon is united by a strong sense of community and passion for improving the digital experience. Over 15 million users and 20,000 businesses in 180 countries use Dashlane for a faster, simpler, and more secure internet.",
+    "locations": ["New York City", "Paris", "New York", "Lisbon", "Remote"],
+    "industries": [
+      "Cloud Computing",
+      "Security",
+      "Payments",
+      "Identity Management",
+      "Privacy",
+      "Software",
+      "Technology",
+      "Mobile Application"
+    ],
+    "jobs": { "Designer": 1, "Engineering": 2, "Investor": 1, "Sales": 1 }
+  },
+  {
+    "id": 19,
+    "company_name": "Hiro",
+    "headline": "Building developer tools for Stacks, enabling apps and smart contracts for Bitcoin",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Twitter",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.hiro.so/",
+    "employees": "11-50",
+    "about": "It was 2013 when Muneeb Ali and Ryan Shea started the Stacks project at the Princeton Computer Science Department. Shortly after, they went through Y Combinator and attracted other Princeton scientists to work on Stacks. They founded Hiro, then named Blockstack PBC, to support the development and growth of Stacks. Today, Hiro is one of many companies that works on Stacks. Hiro contributes to Stacks’ core infrastructure and open-source libraries and builds products like the Stacks Wallet and Stacks Explorer. We’re a globally distributed team that includes scientists from Princeton, Stanford, MIT and other top universities.",
+    "locations": ["New York City", "New York", "Remote"],
+    "industries": [
+      "Internet",
+      "Cloud Computing",
+      "Open Source",
+      "Development Platforms",
+      "Application Platforms",
+      "Data Security",
+      "Blockchains",
+      "Distributed Systems"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 5,
+      "Investor": 1,
+      "Other Engineering": 1
+    }
+  },
+  {
+    "id": 20,
+    "company_name": "Securly",
+    "headline": "Your school’s all-in-one solution for student safety, student wellness, and student engage",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Recently funded",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://securly.com",
+    "employees": "201-500",
+    "about": "Named #519 on Inc 5000’s list of fastest-growing companies in the world, Securly is a world-renowned innovator in student safety solutions. Our Mission Our mission is to cultivate a safer digital world for children. We see the internet as a space for learning and exploration, and social media as an opportunity to develop emotional intelligence and social competence. The internet brings many benefits to children’s development and learning but also presents many concerns. Our goal is not to censor the internet, but to mitigate the negative effects it can have on kids. We develop solutions to keep children safe online wherever they are - at school, at home or out in the world. From tools to help adults create a safer internet to an AI that recognizes signs of bullying and even intuits risks of self-harm, Securly continues to build technology and innovate solutions to support online safety and healthy digital lives for children.",
+    "locations": [
+      "United States",
+      "San Jose",
+      "United Kingdom",
+      "Charlotte",
+      "Pune",
+      "San Francisco Bay Area"
+    ],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "B2B",
+      "Education",
+      "Artificial Intelligence",
+      "Parenting",
+      "Software",
+      "K-12 Education",
+      "Mobile Devices",
+      "Network Security",
+      "Cloud Infrastructure",
+      "Cyber Security",
+      "Education Technology",
+      "Edtech",
+      "Artificial Intelligence / Machine Learning",
+      "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+    ],
+    "jobs": { "Engineering": 1, "Marketing": 1, "Sales": 1 }
+  },
+  {
+    "id": 21,
+    "company_name": "Policygenius",
+    "headline": "America’s leading online insurance marketplace",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as KAYAK",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.policygenius.com",
+    "employees": "501-1000",
+    "about": "Policygenius is the online insurance marketplace combining cutting-edge technology with the expertise of real licensed agents to help people get the coverage they need to protect their family, property, and finances with confidence. Since 2014, we've served as a resource for millions of people on their insurance journeys, and we've placed more than $160 billion in coverage. Our $125 million Series E in early 2022 brought our fundraising total to over $250 million. At Policygenius, we've worked hard to maintain an inclusive culture amid our rapid growth. We’re proud of building an environment that encourages our teammates to bring their authentic selves to work, and we're looking for more people with grit, collaborative attitudes, and creative problem-solving skills to join our team. Come see why we’ve been voted one of Inc. Magazine's \"Best Workplaces\" four years in a row!",
+    "locations": ["Durham", "New York City"],
+    "industries": [
+      "Financial Services",
+      "Education",
+      "Marketplaces",
+      "Finance",
+      "Insurance",
+      "Marketplace",
+      "Insurtech"
+    ],
+    "jobs": { "Engineering": 1, "Investor": 2, "Marketing": 1, "Sales": 5 }
+  },
+  {
+    "id": 22,
+    "company_name": "Scoop",
+    "headline": "Solutions built to make hybrid work",
+    "tags": [
+      "Highly rated",
+      "Recently funded",
+      "Same investor as Apple",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.takescoop.com/",
+    "employees": "11-50",
+    "about": "Scoop's platform includes a suite of product solutions for Teams and Organizations to thrive in a hybrid work environment, including: The first hybrid team assistant. Eliminate all the back and forth of hybrid coordination and make it easier to get together with your closest co-workers. -- Keep teams in the loop with default workplace routines -- Surface workplace statuses with the tools you use everyday like Google Calendar and Slack -- Make it easier to get together with your work favorites Support your workplace operations while improving the hybrid experience for every member of your organization. -- Leverage employee attendance data to fine tune your hybrid strategy -- Proactively manage attendance capacity across offices -- Provide intuitive desk booking options for employees Connect employees going the same way in safe, reliable, and convenient door-to-door carpools. -- Provide affordable commute options for employees -- Never be stuck without a ride with Lyft backup commutes -- Connect employees to boost company culture",
+    "locations": ["Atlanta", "San Francisco", "Remote"],
+    "industries": [
+      "Mobile",
+      "SaaS",
+      "B2B",
+      "Productivity Software",
+      "Transportation",
+      "Apps",
+      "Mobility",
+      "Future Of Work"
+    ],
+    "jobs": { "Engineering": 1 }
+  },
+  {
+    "id": 23,
+    "company_name": "HealthSherpa",
+    "headline": "Find an affordable health care plan today",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.healthsherpa.com/",
+    "employees": "51-200",
+    "about": "HealthSherpa is a Healthcare.gov certified web broker, giving people, employers, and nonprofits a super simple platform for enrolling individuals and families in subsidy-eligible health plans. We give people access to tools to aid their plan selection and to make the best use of their insurance after they’ve enrolled. With support via phone, email, and chat throughout the enrollment process, folks don't have to be confused by the Affordable Care Act (ACA) anymore.",
+    "locations": ["San Francisco", "Sacramento"],
+    "industries": [
+      "Healthcare",
+      "Governments",
+      "Health and Insurance",
+      "Employer Benefits Programs"
+    ],
+    "jobs": { "Engineering": 1, "Investor": 1 }
+  },
+  {
+    "id": 24,
+    "company_name": "Small Door Veterinary",
+    "headline": "Veterinary care reimagined",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Recently funded",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://smalldoorvet.com",
+    "employees": "11-50",
+    "about": "Small Door is membership-based veterinary care designed with human standards that are better for pets, pet parents, and veterinarians. Our mission is a reimagined veterinary care experience with a membership that includes exceptional care, 24/7 telemedicine, and transparent pricing - delivered with hospitality in spaces designed by animal experts to be stress-free. Small Door opened its flagship in the West Village in 2020 and will open a second practice on Manhattan’s Upper East Side with a goal of 25 locations by 2025. In building Small Door, we’ve partnered with beloved consumer companies like Warby Parker, Sweetgreen, and Casper to establish our brand and we’re also working with the founders of One Medical Group and CityMD along with people like Temple Grandin to create our experience.",
+    "locations": ["New York City", "New York"],
+    "industries": ["Healthcare", "Medical", "Pets", "Veterinary", "Pet Care"],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 1,
+      "Founder": 13,
+      "Investor": 25,
+      "Marketing": 2
+    }
+  },
+  {
+    "id": 25,
+    "company_name": "Hyperscience",
+    "headline": "Human Centered Automation",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Warby Parker",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.hyperscience.com",
+    "employees": "201-500",
+    "about": "Hyperscience is transforming the future of work to elevate human potential. Our human-centered approach to automation enables a new era of human and machine collaboration that delivers dramatically improved organizational agility, without the legacy cost and burden of change management. By combining data, people, and processes into digital assembly lines, the Hyperscience Platform turns complex processes into simple, configurable workflows. Our industry-leading machine learning technology continuously learns and evolves, to involve humans only when needed. For more information, please visit our website.",
+    "locations": ["New York City", "London", "New York", "Sofia"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Machine Learning",
+      "Data Center Automation",
+      "Big Data",
+      "Artificial Intelligence",
+      "Predictive Analytics",
+      "Cloud Data Services",
+      "Enterprise Application"
+    ],
+    "jobs": { "Engineering": 13, "Product": 3, "Sales": 13 }
+  },
+  {
+    "id": 26,
+    "company_name": "Turo",
+    "headline": "Book unforgettable cars from trusted hosts around the world",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Amazon",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://turo.com/",
+    "employees": "501-1000",
+    "about": "Turo is a car sharing marketplace where guests can book any car they want, wherever they want it, from a vibrant community of local hosts across the US, Canada, the UK, France & Australia. Guests choose from a totally unique selection of nearby cars, while hosts earn extra money to offset the costs of car ownership. A pioneer of the sharing economy and the travel industry, Turo is a safe, supportive community where the car you book is part of a story, not a fleet.",
+    "locations": [
+      "Phoenix",
+      "San Francisco",
+      "London",
+      "Toronto",
+      "Paris",
+      "Sydney"
+    ],
+    "industries": [
+      "Peer-to-Peer",
+      "Marketplaces",
+      "Transportation",
+      "Recreation",
+      "Sharing Economy",
+      "Marketplace",
+      "Car Sharing"
+    ],
+    "jobs": {
+      "Engineering": 2,
+      "Founder": 3,
+      "Investor": 12,
+      "Marketing": 6,
+      "Sales": 3
+    }
+  },
+  {
+    "id": 27,
+    "company_name": "Shield AI",
+    "headline": "Shield AI is building the world's best AI pilot",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Recently funded",
+      "Strong Leadership"
+    ],
+    "website": "http://www.shield.ai",
+    "employees": "201-500",
+    "about": "Backed by top-tier Silicon Valley VC funds, Shield AI established itself as the leader in AI for aviation. Shield AI has been named to Forbes’ AI 50 and Best Startups lists, CB Insights Top 100 AI Companies, and Fast Company’s Most Innovative Companies. Our mission is to protect service members and civilians with intelligent systems. We're hiring! Visit shield.ai/careers to learn more.",
+    "locations": [
+      "Dallas",
+      "San Diego",
+      "Washington DC",
+      "United Arab Emirates",
+      "Remote"
+    ],
+    "industries": [
+      "Hardware",
+      "Security",
+      "Robotics",
+      "Machine Learning",
+      "Defense",
+      "Artificial Intelligence",
+      "Aerial Robotics",
+      "Software Engineering"
+    ],
+    "jobs": {
+      "Designer": 4,
+      "Engineering": 38,
+      "Founder": 13,
+      "Investor": 19,
+      "Other Engineering": 10,
+      "Product": 1,
+      "Sales": 4
+    }
+  },
+  {
+    "id": 28,
+    "company_name": "Amplitude",
+    "headline": "Using customer data to build great product experiences that convert and retain users",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://amplitude.com",
+    "employees": "201-500",
+    "about": "Amplitude does mobile analytics to help app developers optimize their in-app purchasing, engagement, and retention. Mobile app usage is growing at a rapid pace but the options for analytics aren’t adequate to meet mobile developer needs. Amplitude works out of the box with minimal setup while having all the advanced features that used to be reserved for enterprise products. With Amplitude, developers can look at their funnels, retention, and revenues, as well as powerfully segment everything. All data is updated in real-time the second it comes in. Amplitude scales up to hundreds of millions of events while also allowing you to drill down to the level of the individual user. Amplitude supports integration at any level, including access to the raw data for custom querying written in SQL. We're 100% focused on building the analytics we always wanted for mobile apps.",
+    "locations": [
+      "Austin",
+      "San Francisco",
+      "London",
+      "Amsterdam",
+      "Paris",
+      "New York"
+    ],
+    "industries": [
+      "Mobile",
+      "SaaS",
+      "Analytics",
+      "Big Data",
+      "Productivity Software",
+      "Software",
+      "Mobile Analytics",
+      "Product Management"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 8,
+      "Founder": 6,
+      "Investor": 12,
+      "Marketing": 3,
+      "Product": 1,
+      "Sales": 33
+    }
+  },
+  {
+    "id": 29,
+    "company_name": "Tanium",
+    "headline": "See, control and protect every endpoint, everywhere, with Converged Endpoint Management",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.tanium.com",
+    "employees": "1001-5000",
+    "about": "Tanium, the industry’s only provider of converged endpoint management (XEM), leads the paradigm shift in legacy approaches to managing complex security and technology environments. Only Tanium protects every team, endpoint, and workflow from cyber threats by integrating IT, Operations, Security, and Risk into a single platform that delivers comprehensive visibility across devices, a unified set of controls, and a common taxonomy for a single shared purpose: to protect critical information and infrastructure at scale. Tanium has been named to the Forbes Cloud 100 list for six consecutive years and ranks on Fortune’s list of the Best Large Workplaces in Technology. In fact, more than half of the Fortune 100 and the U.S. armed forces trust Tanium to protect people; defend data; secure systems; and see and control every endpoint, team, and workflow everywhere. That’s the power of certainty. Visit www.tanium.com and follow us on LinkedIn and Twitter.",
+    "locations": [
+      "Chicago",
+      "Washington DC",
+      "Raleigh",
+      "Kirkland",
+      "Addison",
+      "Emeryville"
+    ],
+    "industries": [
+      "Enterprise Software",
+      "Information Technology",
+      "Security",
+      "Software",
+      "Cyber Security"
+    ],
+    "jobs": {
+      "Engineering": 27,
+      "Investor": 14,
+      "Marketing": 19,
+      "Product": 1,
+      "Sales": 29
+    }
+  },
+  {
+    "id": 30,
+    "company_name": "Ontra",
+    "headline": "Ontra, the leader in Contract Automation and Intelligence",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Groupon",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.ontra.ai/",
+    "employees": "51-200",
+    "about": "Ontra is the global leader in Contract Automation and Intelligence. The Ontra platform combines the best of artificial intelligence and software with a global network of talented lawyers to offer a complete and scalable solution for recurring legal workflows, such as processing routine contracts and tracking obligations in complex agreements. Ontra delivers purpose-built contract workflow and data management tools to easily manage obligations, answer key questions, and analyze trends and benchmarks. By streamlining repetitive legal processes and transforming contracts into data, Ontra helps customers lower costs, improve quality, reduce turnaround times, and provide actionable insights, ultimately freeing internal resources to focus on impactful and engaging work. Ontra is headquartered in San Francisco, with global operations across North America, Europe, and Asia. Learn more at www.ontra.ai.",
+    "locations": [
+      "Atlanta",
+      "Austin",
+      "Boston",
+      "Chicago",
+      "Dallas",
+      "Denver",
+      "Hong Kong",
+      "Los Angeles",
+      "New York City",
+      "Philadelphia",
+      "Portland",
+      "Seattle",
+      "Singapore",
+      "San Francisco",
+      "London"
+    ],
+    "industries": [
+      "Information Technology",
+      "Cloud Computing",
+      "Analytics",
+      "Virtual Workforces",
+      "Software",
+      "Legal",
+      "Document Management"
+    ],
+    "jobs": {
+      "Engineering": 4,
+      "Founder": 2,
+      "Investor": 12,
+      "Marketing": 5,
+      "Sales": 7
+    }
+  },
+  {
+    "id": 31,
+    "company_name": "Klaviyo",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.klaviyo.com",
+    "employees": "1001-5000",
+    "about": "Klaviyo (pronounced “clay-vee-oh”) is a leading customer data and marketing automation platform dedicated to accelerating revenue and customer connection for online businesses. Klaviyo makes it easy to store, access, analyze and use transactional and behavioral data to power highly-targeted customer and prospect communications. The company's hybrid customer-data and marketing-platform model allows companies to grow by fostering direct relationships with customers, without giving up their valuable data to popular big-tech ad platforms. Over 275,000 innovative companies like Unilever, Custom Ink, Living Proof and Huckberry sell more with Klaviyo. Learn more at www.klaviyo.com. Learn more at www.klaviyo.com.",
+    "locations": [
+      "Boston",
+      "Denver",
+      "London",
+      "Sydney",
+      "San Francisco Bay Area",
+      "Remote"
+    ],
+    "industries": [
+      "SaaS",
+      "E-Commerce",
+      "Advertising",
+      "Analytics",
+      "Email",
+      "Shopping",
+      "Software",
+      "Marketing",
+      "Ecommerce"
+    ],
+    "jobs": {
+      "Engineering": 23,
+      "Founder": 10,
+      "Investor": 8,
+      "Marketing": 8,
+      "Product": 4,
+      "Sales": 21
+    }
+  },
+  {
+    "id": 32,
+    "company_name": "Front",
+    "headline": "Front is making work happier by meaningfully connecting teams and customers",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as PayPal",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://front.com",
+    "employees": "201-500",
+    "about": "Most businesses want to deliver the extraordinary service that makes their customers feel like the only one. But as a company grows, it becomes incredibly difficult to deliver this kind of service to hundreds, thousands, or millions of customers. Most businesses choose scale and efficiency over quality — and customer experience suffers. At Front, we equip companies to have it all — scale, efficiency, and quality, human-to-human interactions that lead to extraordinary customer experiences. And along the way, we make sure teams are working happier too. How? Front is a hub for customer communication that allows companies to offer tailor-made service at scale. Front looks and feels like your email inbox with a few very important differences: teammates collaborate in the same place where external messages are sent and received, and behind the scenes, robust workflows and integrations power the efficiency and insights typically found in a CRM. More than 6,500 businesses use Front to work together to send out the best replies faster, keep messages organized across channels, and always maintain a personal touch. The result is premier, personalized service that scales with your business — and a team that works together as one.",
+    "locations": ["San Francisco", "Paris"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "B2B",
+      "Collaboration",
+      "Productivity Software",
+      "Email",
+      "Apps",
+      "Software",
+      "Communications Software",
+      "Unified Communication"
+    ],
+    "jobs": {
+      "Engineering": 9,
+      "Founder": 1,
+      "Investor": 1,
+      "Marketing": 1,
+      "Product": 1,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 33,
+    "company_name": "Grammarly",
+    "headline": "Improving lives by improving communication",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Snapchat",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.grammarly.com",
+    "employees": "501-1000",
+    "about": "Grammarly stands with Ukraine. We invite you to do the same. Here are some ways you can help: gram.ly/WeStandWithUkraine Grammarly’s writing assistance technology is used by over 50,000 teams and 30 million people every day. Founded in 2009, Grammarly uses a combination of technological approaches and human expertise to offer unmatched, market-leading communication support to individuals and enterprises. Our AI-powered suggestions help people write with confidence and help businesses achieve better results by providing feedback on their writing, wherever it’s happening. Grammarly team members use advanced machine learning to break new ground in natural language processing that analyzes written sentences to understand context and tone. Grammarly Premium elevates communication for individual students and professionals, Grammarly Business drives organizations of all sizes to accelerate business results, and Grammarly for Developers empowers builders to enhance the communication experience for their end users. We’re growing our values-driven team to support our expanding user base! Grammarly is one of TIME’s 100 Most Influential Companies, one of Fast Company’s Most Innovative Companies in AI, a member of the Forbes Cloud 100, and one of Inc.’s Best Workplaces. We operate with a remote-first hybrid work model, meaning we primarily work from home and meet for in-person collaboration at our hubs in San Francisco, Kyiv, New York, Vancouver, and Berlin, or in a workspace in Kraków, as conditions allow. Team members can work in the United States, Canada, Ukraine, Germany, Poland, and Portugal.",
+    "locations": ["New York City", "San Francisco", "Vancouver", "Kyiv city"],
+    "industries": [
+      "Mobile",
+      "SaaS",
+      "Education",
+      "Machine Learning",
+      "Language Learning",
+      "Business Productivity",
+      "Artificial Intelligence",
+      "Blogging Platforms",
+      "Apps",
+      "Software",
+      "Assisitive Technology",
+      "Edtech"
+    ],
+    "jobs": {
+      "Designer": 7,
+      "Engineering": 49,
+      "Founder": 20,
+      "Investor": 12,
+      "Marketing": 13,
+      "Other Engineering": 1,
+      "Product": 5,
+      "Sales": 8
+    }
+  },
+  {
+    "id": 34,
+    "company_name": "Unite Us",
+    "headline": "Health happens in communities. We create communities of health",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://uniteus.com",
+    "employees": "51-200",
+    "about": "We are a technology company that builds coordinated care networks of health and human service providers. Our company was founded to help the people who risked their lives to protect us all, and we continue to meet the needs of veterans—never forgetting where we started. With us, providers across sectors can send and receive secure referrals, track every person’s total health journey, and report on tangible outcomes across a full range of services in a centralized, cohesive, and collaborative ecosystem. Also, our dedicated team builds authentic, lasting partnerships to ensure their networks have a solid foundation, launch successfully, and continue to grow and thrive. This social infrastructure helps communities transform their ability to work together and measure impact.",
+    "locations": [
+      "New York City",
+      "Portland",
+      "San Francisco",
+      "Raleigh",
+      "New York"
+    ],
+    "industries": [
+      "SaaS",
+      "Healthcare",
+      "Information Technology",
+      "Software",
+      "Social CRM"
+    ],
+    "jobs": {
+      "Engineering": 3,
+      "Founder": 3,
+      "Marketing": 2,
+      "Product": 1,
+      "Sales": 10
+    }
+  },
+  {
+    "id": 35,
+    "company_name": "ThoughtSpot",
+    "headline": "Analytics without the hassle, get everything you need for the comfort of your hand",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Stripe",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.thoughtspot.com",
+    "employees": "501-1000",
+    "about": "ThoughtSpot is disrupting the BI industry with search-driven analytics for the enterprise. ThoughtSpot's Relational Search technology lets business people analyze company data in seconds and helps BI & Analytics teams cut their reporting backlogs by over 90%. ThoughtSpot connects with data from on-premise and cloud data sources and is designed for enterprise-scale, security, and governance - all while deploying 85% faster than legacy technologies. ThoughtSpot has built the world's most advanced, yet easy-to-use number-crunching machine with a singular mission - to deliver access to data at \"human scale. The company's founding team has previously built market-defining search and analytics technologies at Google, Amazon, Oracle and Microsoft. For more information please visit www.thoughtspot.com.",
+    "locations": [
+      "Dallas",
+      "Japan",
+      "Seattle",
+      "London",
+      "Sunnyvale",
+      "United Kingdom",
+      "Bengaluru",
+      "Hyderabad",
+      "Kerala"
+    ],
+    "industries": [
+      "Enterprise Software",
+      "Analytics",
+      "Search",
+      "Business Intelligence",
+      "Big Data",
+      "Business Analytics",
+      "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+    ],
+    "jobs": {
+      "Designer": 2,
+      "Engineering": 32,
+      "Founder": 5,
+      "Investor": 1,
+      "Marketing": 7,
+      "Other Engineering": 1,
+      "Sales": 4
+    }
+  },
+  {
+    "id": 36,
+    "company_name": "Athletic",
+    "headline": "Premium sports media coverage for local fans",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://theathletic.com/",
+    "employees": "201-500",
+    "about": "We founded The Athletic with this simple mission: produce smarter coverage for die-hard fans. It’s what we set out every day to do and our world-class full-time writers, alongside talented contributors and freelancers, have produced thousands of in-depth articles for The Athletic’s subscribers. Our employees are talented writers, editors, engineers, designers, marketers, brand strategists and more, who are excited about building the next great sports media company. Founded in 2016, The Athletic is a direct-to-consumer subscription media company offering local and national sports coverage. With a presence in more than 47 markets in the US, Canada and the UK, The Athletic's world-class editorial team has produced thousands of in-depth articles as well as a newly released lineup of podcasts and videos. Our headquarters is in San Francisco, we have offices in New York and London, and our 300+ editorial employees are based in their respective markets.",
+    "locations": [
+      "Atlanta",
+      "Baltimore",
+      "Boston",
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Dallas",
+      "Denver",
+      "Detroit",
+      "Houston",
+      "Los Angeles",
+      "Miami",
+      "Minnesota",
+      "New Orleans",
+      "North Carolina",
+      "Philadelphia",
+      "San Antonio",
+      "San Diego",
+      "Seattle",
+      "Utah",
+      "Washington DC",
+      "San Francisco",
+      "London",
+      "Las Vegas",
+      "Sacramento",
+      "Oregon",
+      "Pittsburgh",
+      "Wisconsin",
+      "Arizona",
+      "Orlando",
+      "Indiana",
+      "New York",
+      "Oklahoma",
+      "Tampa",
+      "Memphis",
+      "South Carolina",
+      "Jacksonville",
+      "Nashville",
+      "Kansas City",
+      "Buffalo",
+      "San Francisco Bay Area",
+      "St. Louis"
+    ],
+    "industries": [
+      "Digital Media",
+      "Sports",
+      "Publishing",
+      "News",
+      "Journalism",
+      "Consumer"
+    ],
+    "jobs": {
+      "Designer": 4,
+      "Engineering": 8,
+      "Founder": 1,
+      "Investor": 10,
+      "Product": 2,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 37,
+    "company_name": "AngelList",
+    "headline": "We're the world’s largest startup community. We help startups change the world",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Twitter",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://angel.co/",
+    "employees": "51-200",
+    "about": "At AngelList, we fundamentally believe in startups. We’re building the definitive platform for startups — where they raise money ( ), build their team ( ), and launch their products ( ).",
+    "locations": ["New York City", "San Francisco", "Remote"],
+    "industries": [
+      "Startups",
+      "Recruiting",
+      "Venture Capital",
+      "HR / Recruiting"
+    ],
+    "jobs": {
+      "Engineering": 2,
+      "Founder": 3,
+      "Investor": 1,
+      "Marketing": 2,
+      "Sales": 2
+    }
+  },
+  {
+    "id": 38,
+    "company_name": "Weights & Biases",
+    "headline": "Developer Tools for Machine Learning",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Warby Parker",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.wandb.ai",
+    "employees": "51-200",
+    "about": "Think of W&B like GitHub for machine learning models. With a few lines of code, — architecture, hyperparameters, git commits, model weights, GPU usage, and even datasets and predictions. W&B’s lightweight integrations work with any Python script, and you can sign up for a free account and start tracking and visualizing models in 5 minutes. Used by top researchers including teams at OpenAI, Lyft, Github, and MILA, W&B is part of the new standard of best practices for machine learning. Run your first experiment in 30 seconds with this quick hosted notebook: bit.ly/intro-wb",
+    "locations": ["San Francisco", "Remote"],
+    "industries": [
+      "Information Technology",
+      "Information Services",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Software",
+      "Artificial Intelligence / Machine Learning",
+      "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 11,
+      "Founder": 1,
+      "Investor": 2,
+      "Marketing": 4,
+      "Product": 1,
+      "Sales": 6
+    }
+  },
+  {
+    "id": 39,
+    "company_name": "Wonolo",
+    "headline": "We help underemployed workers find flexible work in minutes at businesses across the US",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as PayPal",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://wonolo.com",
+    "employees": "201-500",
+    "about": "Wonolo, which stands for Work Now Locally, is disrupting the $70bn temporary staffing industry. Founded in 2014, Wonolo is a remote-first company with three regional hubs: San Francisco Bay Area, Nashville, and Toronto. We have built a tech-enabled marketplace that connects, within minutes, businesses in need of front-line workers on a temporary or seasonal basis, with 300,000 underemployed workers in local markets all across the country. Our mission is to empower the in-demand workforce by providing flexible and fulfilling job opportunities for everyone. We are backed by leading investors including Sequoia, Bain Capital, PivotNorth, and Base10. We’re passionate about solving tough problems with a technology platform that empowers people to choose work that works for them instead of the other way around. Wonolo is a Great Place to Work Certified company for delivering a consistently high-trust experience for all employees. We value diversity and are committed to creating an inclusive work environment. We provide equal employment opportunity for all applicants and employees. #23 in Fortune's Best Workplaces in Technology 2020 (Small and Medium) #16 in Fortune's Best Workplaces in the Bay Area 2020 (Small and Medium) #40 in Best Small and Medium Workplaces 2019",
+    "locations": ["San Francisco", "Toronto", "Nashville"],
+    "industries": [
+      "Marketplaces",
+      "Local",
+      "Startups",
+      "Temporary Staffing",
+      "Staffing Firms",
+      "Marketplace"
+    ],
+    "jobs": { "Engineering": 5, "Founder": 1, "Management": 1, "Sales": 10 }
+  },
+  {
+    "id": 40,
+    "company_name": "Clearbit",
+    "headline": "The marketing data engine for all of your customer interactions",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://clearbit.com/",
+    "employees": "51-200",
+    "about": "Our mission is to build the data backbone for modern businesses. We believe in autonomy, automation, and the power of great data. Today, Clearbit is used by more than 1,500 enterprise customers and 300,000 individual marketers, engineers, and sales reps. We're a profitable, rapidly growing SaaS company (> 250% ARR growth in 2017), and are just getting started.",
+    "locations": ["San Francisco"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Information Technology",
+      "Business Intelligence",
+      "Developer APIs",
+      "Fraud Detection",
+      "Software"
+    ],
+    "jobs": { "Engineering": 2, "Marketing": 1, "Sales": 1 }
+  },
+  {
+    "id": 41,
+    "company_name": "LaunchDarkly",
+    "headline": "Fundamentally change how you deliver software",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Yelp",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://launchdarkly.com",
+    "employees": "501-1000",
+    "about": "Serving 20 trillion feature flags daily, LaunchDarkly helps development teams innovate faster by transforming how they deliver software to customers. LaunchDarkly isn’t just a leader in feature management — it’s the first scalable feature management platform. Feature management allows development teams to innovate faster by fundamentally transforming how software is delivered to customers. With the ability to gradually release new software features to any segment of users on any platform, DevOps teams can standardize safe releases at scale, accelerate their journey to the cloud and collaborate more effectively with business teams. Today, LaunchDarkly deploys peaks of 20 trillion feature flags each day, and that number continues to grow. Founded in 2014 in Oakland, California by Edith Harbaugh and John Kodumal, LaunchDarkly has been named on the Forbes Cloud 100 list, InfoWorld’s 2021 Technology of the Year list, an",
+    "locations": ["Oakland"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Analytics",
+      "Software",
+      "Developer Tools",
+      "Test and Measurement"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 5,
+      "Founder": 1,
+      "Investor": 1,
+      "Marketing": 1,
+      "Other Engineering": 1,
+      "Product": 1,
+      "Sales": 2
+    }
+  },
+  {
+    "id": 42,
+    "company_name": "Clever",
+    "headline": "School works better with Clever",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://clever.com",
+    "employees": "51-200",
+    "about": "Founded by educators and technologists passionate about improving education, Clever is on a mission to unlock new ways to learn for all students. Already used by more than 60% of U.S. K-12 schools, Clever brings all applications into one secure portal and provides single sign-on for everyone. With the leading network of digital learning providers, Clever makes school more engaging, personalized, and fun.",
+    "locations": ["Durham", "San Francisco", "Remote"],
+    "industries": [
+      "Education",
+      "Big Data",
+      "Application Platforms",
+      "Software",
+      "Data Integration",
+      "K-12 Education",
+      "Edtech"
+    ],
+    "jobs": { "Engineering": 2, "Investor": 1, "Sales": 1 }
+  },
+  {
+    "id": 43,
+    "company_name": "Attentive",
+    "headline": "Attentive® is the leader in conversational commerce, reinventing business to consumer communication",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as PayPal",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://attentive.com/",
+    "employees": "1001-5000",
+    "about": "Attentive® is the leader in conversational commerce, reinventing business to consumer communication. Our SMS-first software platform helps everyone from entrepreneurs to enterprises strengthen relationships with their consumers in a new way. Through two-way, real-time, personalized communications, we drive billions in e-commerce revenue and over 8,000 leading brands like CB2, Chanel, Urban Outfitters, Crocs, Jack in the Box, and Coach rely on Attentive to deliver powerful commerce experiences. Attentive’s growth has been recognized by Deloitte’s Fast 500, Linkedin’s Top Startups and Forbes Cloud 100 all thanks to the hard work from our global employees!",
+    "locations": ["United States", "London", "Sydney"],
+    "industries": [
+      "Mobile",
+      "SaaS",
+      "E-Commerce",
+      "Advertising",
+      "Sales and Marketing",
+      "Messaging",
+      "Software",
+      "Personalization",
+      "Marketing Automation",
+      "Marketing"
+    ],
+    "jobs": { "Engineering": 6, "Founder": 1, "Product": 1, "Sales": 4 }
+  },
+  {
+    "id": 44,
+    "company_name": "Tapcart",
+    "headline": "The best mobile shopping starts with tapcart",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://tapcart.com",
+    "employees": "51-200",
+    "about": "Tapcart is a SaaS platform that enables ecommerce merchants to launch and manage mobile apps for their brand. As the market leader in mobile ecommerce, we focus on providing great experiences for our customers and for mobile shoppers worldwide. Our platform powers the mobile apps of some of the largest shopping brands, including Fashion Nova, Chubbies, The Hundreds and many more. We are inspired by the future. We work to inspire the future. Recently featured at Shopify UNITE, Google I/O and in The Verge, Tapcart is trusted by over 5,000 brands to launch and manage their mobile apps.",
+    "locations": ["Santa Monica"],
+    "industries": [
+      "Mobile",
+      "E-Commerce",
+      "Mobile Commerce",
+      "iPhone",
+      "iOS",
+      "Predictive Analytics",
+      "Marketing Automation",
+      "Shopify"
+    ],
+    "jobs": {
+      "Engineering": 3,
+      "Investor": 3,
+      "Management": 1,
+      "Marketing": 2,
+      "Product": 1,
+      "Sales": 2
+    }
+  },
+  {
+    "id": 45,
+    "company_name": "Labelbox",
+    "headline": "The leading training data platform for data labeling",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Amazon",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.labelbox.com",
+    "employees": "51-200",
+    "about": "Labelbox is the simplest platform to train and operate machine intelligence. Labelbox was founded in early 2018 with a mission to enable organizations to rapidly build artificial intelligence to power the next generation of products and services. The founders of Labelbox experienced first hand the pain of trying to rely on developing and maintaining in-house tools, but also the acceleration and benefits of having a really good one. Labelbox currently enables many enterprises to easily create and manage data labels for building machine learning applications. You can leverage Labelbox to significantly reduce data labeling costs by eliminating your need to build and maintain in-house machine learning infrastructure. Learn more at labelbox.com",
+    "locations": ["San Francisco", "Remote"],
+    "industries": [
+      "Enterprise Software",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Software",
+      "Computer Vision"
+    ],
+    "jobs": { "Engineering": 7, "Sales": 3 }
+  },
+  {
+    "id": 46,
+    "company_name": "Included Health",
+    "headline": "Our mission is to raise the standard of healthcare for everyone",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://includedhealth.com",
+    "employees": "1001-5000",
+    "about": "Included Health is a new kind of healthcare company, delivering integrated virtual care and navigation. We’re on a mission to raise the standard of healthcare for everyone. We break down barriers to provide high-quality care for every person in every community — no matter where they are in their health journey or what type of care they need, from acute to chronic, behavioral to physical. We offer our members care guidance, advocacy, and access to personalized virtual and in-person care for everyday and urgent care, primary care, behavioral health, and specialty care. It’s all included. Learn more at includedhealth.com.",
+    "locations": ["Reno", "San Francisco", "Lewiston", "Remote"],
+    "industries": [
+      "Enterprise Software",
+      "Healthcare",
+      "Medical",
+      "Health Care Information Technology",
+      "Big Data",
+      "Startups",
+      "Employer Benefits Programs"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 42,
+      "Founder": 5,
+      "Investor": 32,
+      "Marketing": 1,
+      "Product": 3,
+      "Sales": 4
+    }
+  },
+  {
+    "id": 47,
+    "company_name": "GameChanger",
+    "headline": "THE GAME HAS CHANGED. Discover the apps that are empowering over 200,000 youth sports teams",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://gc.com/",
+    "employees": "51-200",
+    "about": "GameChanger is changing the way amateur sports teams collect, manage and share information. Our mobile app and website provide scorekeeping, stats, live GameStream plays and recap stories for thousands of amateur teams. GameChanger is proud to be part of the Dick’s Sporting Goods family. We strive to foster a culture of transparency and collaboration as we work together to solve hard problems, and fuel both individual and company growth.",
+    "locations": ["New York City", "New York"],
+    "industries": [
+      "Mobile",
+      "Digital Media",
+      "Internet",
+      "Sports",
+      "Local",
+      "iOS",
+      "Apps",
+      "Software"
+    ],
+    "jobs": {
+      "Designer": 2,
+      "Engineering": 10,
+      "Other Engineering": 1,
+      "Product": 3
+    }
+  },
+  {
+    "id": 48,
+    "company_name": "Instabase",
+    "headline": "Instabase is a horizontal application platform designed for automating unstructured data",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://instabase.com/",
+    "employees": "201-500",
+    "about": "Today, on your smartphone you have an app store where you can find a dozen apps to have food delivered to your door, but we don’t have an app store where a large enterprise, like a bank, can find an app for income verification, or where an insurance company can find an app for processing claims. Every such application is custom built. We should wonder — why? The desktop computer is an important interface for business applications. Problem is, it wasn’t built to perform modern business operations. The problem lies in the operating system. Where Android and iOS were designed to allow applications to interact with one another, desktop computing simply wasn’t. This means that operations such as deal analysis and loan processing, which toggle between human data and computer data, can’t be performed without the assistance of a human being. It’s not only inefficient for businesses but utterly uninspiring for workers. Instabase is on a mission to fix that: to rethink the way we use apps and the way those apps work together to improve business processes and empower innovators to solve problems on a larger scale. Read More:",
+    "locations": [
+      "New York City",
+      "San Francisco",
+      "London",
+      "Menlo Park",
+      "Bengaluru",
+      "Remote"
+    ],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Information Technology",
+      "Cloud Computing",
+      "B2B",
+      "Machine Learning",
+      "Business Information Systems",
+      "Artificial Intelligence",
+      "Development Platforms",
+      "Application Platforms",
+      "Software",
+      "Cloud Infrastructure",
+      "Artificial Intelligence / Machine Learning"
+    ],
+    "jobs": { "Engineering": 2, "Founder": 2, "Investor": 1, "Sales": 3 }
+  },
+  {
+    "id": 49,
+    "company_name": "B12",
+    "headline": "Bring your business online, starting with your website",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Snapchat",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://b12.io",
+    "employees": "11-50",
+    "about": "The all-in-one solution to help your business succeed online, including websites, SEO, online scheduling, payments, and more Our mission is to help people do meaningful work — small businesses in particular. We do this by offering an all-in-one DIFY (do it for you) platform that modernizes and streamlines running professional services businesses online. Our supercharged software instantly drafts a website, and our team of copywriters, designers, and SEO specialists brings businesses online in 30 days. We deliver a search-optimized website with the integrated tools our customers need to serve and charge their clients.",
+    "locations": ["New York City", "New York"],
+    "industries": [
+      "Business Productivity",
+      "Marketplaces",
+      "Artificial Intelligence",
+      "Small and Medium Businesses",
+      "Design",
+      "Software",
+      "Web Development",
+      "Computers"
+    ],
+    "jobs": { "Designer": 1, "Marketing": 2, "Sales": 1 }
+  },
+  {
+    "id": 50,
+    "company_name": "SwoopMe",
+    "headline": "Software for roadside assistance providers that helps to increase efficiency and customer loyalty",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Same investor as Twitter",
+      "Strong Leadership"
+    ],
+    "website": "https://joinswoop.com",
+    "employees": "11-50",
+    "about": "What We Do Swoop builds software for local towing companies. We power hundreds of towing companies and serve tens of thousands of customers on a daily basis. Our parent company, Agero, is the market leader, providing roadside protection for 80M Americans and performing 12M roadside services annually. As a connected vehicle service, we are in deep discussions with leading car manufacturers about their connected and autonomous vehicle experiences.",
+    "locations": ["San Francisco"],
+    "industries": [
+      "Mobile",
+      "Internet",
+      "SaaS",
+      "Marketplaces",
+      "Internet of Things",
+      "Logistics Software",
+      "Marketplace"
+    ],
+    "jobs": { "Engineering": 8, "Founder": 2, "Investor": 1 }
+  },
+  {
+    "id": 51,
+    "company_name": "Coupa Software",
+    "headline": "Business Spend Management Software: All in One Cloud",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Groupon",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.coupa.com",
+    "employees": "1001-5000",
+    "about": "At coupa we are the cloud platform for business spend; delivering measurable value through real-time spend visibility, control, compliance, and agility. we are transforming the way that businesses manage their spend. in partnership with the business spend management (bsm) community, we are co-creating new and unique capabilities that empower our customers, partners, and suppliers with increased visibility, actionable insights, and solutions to manage their spend.",
+    "locations": ["Reno", "San Mateo", "Pune", "São Paulo"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Cloud Computing",
+      "Finance",
+      "Software",
+      "Cloud Infrastructure",
+      "Procurement"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 131,
+      "Founder": 7,
+      "Investor": 10,
+      "Marketing": 1,
+      "Other Engineering": 4,
+      "Product": 2,
+      "Sales": 27
+    }
+  },
+  {
+    "id": 52,
+    "company_name": "Stord",
+    "headline": "The Cloud Supply Chain",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Amazon",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.stord.com",
+    "employees": "501-1000",
+    "about": "Stord is on a mission to make supply chain a competitive advantage for our customers. Founded in 2015 and headquartered in the heart of Atlanta’s vibrant tech community, Stord is pioneering Cloud Supply Chain. Cloud Supply Chain is the convergence of the digital and physical elements of logistics. With Stord, businesses can build, expand, and optimize their physical supply chain operations across freight, warehousing, and fulfillment, with the speed, flexibility, and ease of modern cloud software. With a single integration, businesses achieve end-to-end visibility into their whole supply chains from a single dashboard and gain access to Stord’s hybrid network of operated facilities and hundreds of premier-partner warehouses, fulfillment centers, and carriers. We’re a rapidly growing team that is backed by over $200M from leading investors such as Kleiner Perkins, Founders Fund, BOND, D1 Capital, and more (investors in Amazon, Google, Twitter, and more).",
+    "locations": ["Atlanta"],
+    "industries": [
+      "Information Technology",
+      "Real Time",
+      "Services",
+      "Supply Chain Management",
+      "Software",
+      "Technology",
+      "Logistics",
+      "Warehouse And Chain Management",
+      "Data Warehousing"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 3,
+      "Founder": 9,
+      "Investor": 15,
+      "Management": 1,
+      "Product": 9
+    }
+  },
+  {
+    "id": 53,
+    "company_name": "Sendbird",
+    "headline": "The World’s No.1 Chat API",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://sendbird.com",
+    "employees": "201-500",
+    "about": "COMPANY AT A GLANCE Founded in 2015, Sendbird is the leading consumer engagement platform trusted by modern digital apps like Reddit, Delivery Hero, Dream 11, Carousell, Headspace, and Hinge . We allow any app (or Website) to quickly and easily embed rich real-time chat, voice, ... Read more Mission: SendBird is here to help businesses harness the benefits of messaging by digitizing human interactions to increase user engagement and to grow the business. Messaging is now a new pathway for digitizing human interactions. Business messaging tools will lower the hurdle for conversational service works, and the technology will help us put more focus on creative problem solving to be done by humans, with AI taking care of well-defined, repetitive, and monotonous work. Visit to learn more and read about us here:",
+    "locations": [
+      "Singapore",
+      "London",
+      "Germany",
+      "San Mateo",
+      "Seoul",
+      "Bengaluru"
+    ],
+    "industries": [
+      "Mobile",
+      "SaaS",
+      "Enterprise Software",
+      "Messaging",
+      "Developer APIs",
+      "Communications Infrastructure",
+      "Chat",
+      "Video Chat"
+    ],
+    "jobs": { "Engineering": 10, "Investor": 3, "Marketing": 1, "Sales": 1 }
+  },
+  {
+    "id": 54,
+    "company_name": "Signifyd",
+    "headline": "Optimize Revenue. Eliminate Fraud",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.signifyd.com",
+    "employees": "201-500",
+    "about": "SIGNIFYD’s full-service cloud platform simplifies fraud detection through a financial guarantee, allowing businesses to increase sales while reducing fraud losses. SIGNIFYD is in use by multiple companies on the Fortune 1000 and Internet Retailer Top 500 list.",
+    "locations": ["Denver", "New York City", "San Jose", "London", "Belfast"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "E-Commerce",
+      "Payments",
+      "Big Data",
+      "Fraud Detection",
+      "Fin Tech"
+    ],
+    "jobs": {
+      "Engineering": 7,
+      "Founder": 4,
+      "Investor": 9,
+      "Marketing": 1,
+      "Product": 2,
+      "Sales": 5
+    }
+  },
+  {
+    "id": 55,
+    "company_name": "Solv.",
+    "headline": "Same day doctors appointments minus the wait",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Uber",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.solvhealth.com/",
+    "employees": "51-200",
+    "about": "Trying to see a doctor today when you unexpectedly get sick is frustrating, inconvenient and potentially incredibly costly. You might wait days for an appointment with a primary care physician, waste hundreds of dollars at an emergency room, or need to juggle your life to fit a doctor's visit into your schedule. And once you finally get there, it's likely you'll still watch the minutes tick by in a waiting room. At Solv, we believe getting access to high quality, last-minute care should be simple, fast and effortless. You should be able to know where you can go, when you’ll be seen and how much it will cost. We're shifting the power in healthcare to patients, where it belongs.",
+    "locations": ["San Francisco"],
+    "industries": [
+      "Mobile",
+      "Internet",
+      "Healthcare",
+      "Diagnostics",
+      "Personal Health",
+      "Apps",
+      "Consumer"
+    ],
+    "jobs": {
+      "Investor": 1,
+      "Marketing": 1,
+      "Other Engineering": 2,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 56,
+    "company_name": "Chainalysis",
+    "headline": "Building trust in blockchains",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Uber",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://chainalysis.com",
+    "employees": "51-200",
+    "about": "Chainalysis is one of the fastest growing companies in the cryptocurrency space. Our cryptocurrency investigation and compliance software is used by the world’s leading law enforcement agencies, regulators, and businesses as they combat fraud, human trafficking, money laundering, and other illicit activity involving cryptocurrencies. With offices in New York, Washington D.C., London, and Copenhagen, we are backed by Accel, Benchmark and other leading names in venture capital. Our mission is to build trust in blockchains.",
+    "locations": [
+      "New York City",
+      "Washington DC",
+      "London",
+      "Copenhagen",
+      "New York",
+      "København"
+    ],
+    "industries": [
+      "SaaS",
+      "Financial Services",
+      "Financial Exchanges",
+      "Software",
+      "Big Data Analytics",
+      "Bitcoin",
+      "Cryptocurrency",
+      "Blockchains",
+      "Fin Tech"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 27,
+      "Founder": 5,
+      "Investor": 15,
+      "Marketing": 4,
+      "Other Engineering": 1,
+      "Product": 1,
+      "Sales": 24
+    }
+  },
+  {
+    "id": 57,
+    "company_name": "Neighbor",
+    "headline": "Nationwide consumer marketplace disrupting self-storage",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.neighbor.com",
+    "employees": "11-50",
+    "about": "Founded in 2017, Neighbor is a peer-to-peer self-storage company based in the Silicon Slopes of Lehi, Utah. The company connects people who have unused space in their homes, garages or apartments to renters who are looking for affordable storage. Neighbor benefits renters by providing safer, more accessible storage for half the price of a traditional self-storage unit, while giving hosts the opportunity to earn thousands of dollars per year from their empty space. Neighbor's team helps keep the connection safe, easy and friendly and provides an unprecedented $25,000 renter guarantee for items stored and a $1 million host liability guarantee so that good neighbors everywhere can help each other out. Learn more about Neighbor at neighbor.com.",
+    "locations": ["Lehi"],
+    "industries": [
+      "Internet",
+      "Real Estate",
+      "Information Technology",
+      "Storage",
+      "Peer-to-Peer",
+      "E-Commerce Platforms",
+      "Software",
+      "Logistics",
+      "Online Rental",
+      "Sharing Economy",
+      "Content Rental"
+    ],
+    "jobs": {
+      "Designer": 3,
+      "Engineering": 5,
+      "Founder": 1,
+      "Investor": 16,
+      "Marketing": 3,
+      "Product": 2,
+      "Sales": 5
+    }
+  },
+  {
+    "id": 58,
+    "company_name": "People.ai",
+    "headline": "AI Platform for Data-Driven Sales and Marketing, YC S'16",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://people.ai/",
+    "employees": "201-500",
+    "about": "People.ai is the only revenue intelligence platform for go-to-market teams. We help sales, marketing, and customer success teams uncover every revenue opportunity from every customer. Companies like Lyft, Gainsight, Tanium, and Palo Alto Networks choose People.ai to capture contacts, activity, and engagement and drive actionable insights across all their revenue generation. Founded in 2016, People.ai is based in San Francisco and is backed by Y Combinator and Silicon Valley’s top investors, including Lightspeed Venture Partners and Andreessen Horowitz.",
+    "locations": ["San Francisco", "Toronto", "Kyiv"],
+    "industries": [
+      "Machine Learning",
+      "Intelligent Systems",
+      "Artificial Intelligence",
+      "Sales Automation",
+      "Predictive Analytics",
+      "Marketing",
+      "Sales"
+    ],
+    "jobs": { "Sales": 10 }
+  },
+  {
+    "id": 59,
+    "company_name": "Kong",
+    "headline": "Next-Generation API Platform for Modern Architectures",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://konghq.com/",
+    "employees": "51-200",
+    "about": "Mashape powers API Driven Software with many leading products including Kong (Open-Source API Gateway), Galileo (API Analytics), Marketplace (API Hub) and Gelato (Dev Portals). Mashape is funded by tier 1 VC firms including Index Ventures, NEA, CRV, Stanford University, Jeff Bezos (Amazon) and Eric Schmidt (Google).",
+    "locations": ["San Francisco"],
+    "industries": [
+      "Enterprise Software",
+      "Cloud Computing",
+      "Information Services",
+      "Developer APIs",
+      "Development Platforms",
+      "Cloud Data Services",
+      "Cloud Infrastructure"
+    ],
+    "jobs": {
+      "Engineering": 7,
+      "Founder": 8,
+      "Investor": 1,
+      "Product": 5,
+      "Sales": 14
+    }
+  },
+  {
+    "id": 60,
+    "company_name": "Ironclad",
+    "headline": "Powering the world’s contracts with products that legal teams love",
+    "tags": [
+      "Highly rated",
+      "Recently funded",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.ironcladapp.com/",
+    "employees": "201-500",
+    "about": "Ironclad is the #1 contract lifecycle management platform for innovative companies. L’Oréal, Staples, Mastercard, and other leading innovators use Ironclad to collaborate and negotiate on contracts, accelerate contracting while maintaining compliance, and turn contracts into critical carriers of operational business intelligence. It’s the only platform flexible enough to handle every type of contract workflow, whether a sales agreement, an HR agreement or a complex NDA. The company was named one of the 20 Rising Stars on the Forbes 2019 Cloud 100 list, and is backed by leading investors like Accel, Y Combinator, Sequoia, and Bond. For more information, visit www.ironcladapp.com or follow us on LinkedIn and Twitter.",
+    "locations": ["San Francisco", "New York"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Information Technology",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Consulting",
+      "Software",
+      "Legal",
+      "Legal Tech"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 1,
+      "Founder": 1,
+      "Marketing": 1,
+      "Product": 1,
+      "Sales": 2
+    }
+  },
+  {
+    "id": 61,
+    "company_name": "Kodiak Robotics",
+    "headline": "Kodiak Robotics focuses on developing autonomous technology for the trucking industry",
+    "tags": [
+      "Actively Hiring",
+      "Recently funded",
+      "Same investor as Groupon",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.kodiak.ai",
+    "employees": "51-200",
+    "about": "Kodiak was founded in 2018 by Don Burnette and Paz Eshel to redefine long-haul trucking using safe and reliable autonomous technology. Between growing e-commerce and a strong economy, demand for trucking is on the rise. The trucking industry faces major problems: a shortage of drivers, difficult working conditions, and extremely high turnover. According to the American Trucking Association, the industry faced a shortage of 51,000 commercial truck drivers at the end of 2017. Long-haul trucking is primed for autonomous technology. Highway driving is more structured and predictable than urban driving. This means there are fewer decisions for drivers to make and a better fit for autonomous vehicles. We believe that autonomous trucks will play a major role in filling the gap while improving safety, enhancing truck driver quality of life, increasing efficiency, reducing congestion and emissions and creating jobs across the economy.",
+    "locations": ["Mountain View"],
+    "industries": [
+      "Information Technology",
+      "Automotive",
+      "Robotics",
+      "Software",
+      "Logistics",
+      "Hybrid Vehicles",
+      "Trucking",
+      "Ground Transportation",
+      "Logistics / Transportation / Shipping"
+    ],
+    "jobs": {
+      "Engineering": 9,
+      "Investor": 6,
+      "Other Engineering": 5,
+      "Product": 1,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 62,
+    "company_name": "Rippling",
+    "headline": "HR, IT & Operations. Everything your employees need, in one place",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.rippling.com/",
+    "employees": "1001-5000",
+    "about": "Rippling is the first HR + IT platform. Through one, easy-to-use platform, businesses can manage their employee's payroll, health insurance, benefits, HR and even IT — from their computers to their software. Hiring someone, for example? Through Rippling, you can: invite your new hire to e-sign their agreements, add them to payroll and benefits, order and configure their computer, and create their user account in over 300 apps like Gmail, MS Office, Slack, Salesforce, and Dropbox. All in just a few clicks. Rippling is HQ in San Francisco and backed by top-tier investors, including Initialized, DFJ, Y Combinator and the founders of Twitch, Quora, Khan Academy and AngelList.",
+    "locations": ["San Francisco", "Bengaluru"],
+    "industries": [
+      "Information Technology",
+      "Human Resources",
+      "Software",
+      "Employment",
+      "IT Management",
+      "Hr Tech"
+    ],
+    "jobs": { "Founder": 1 }
+  },
+  {
+    "id": 63,
+    "company_name": "Snappr",
+    "headline": "Snappr is the one-stop-shop for visual content creation",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.snappr.com",
+    "employees": "51-200",
+    "about": "Snappr is the one-stop-shop for visual content creation, including the largest on-demand photography and photo editing marketplace. Snappr Shoots is a self-service application to book photographers. Snappr Workflows is a SaaS product for enterprises to automate their visual content pipelines. Snappr also provides free tools such as the Snappr Photo Analyzer, an AI portrait photo-analysis tool. Snappr was founded in 2017 and is headquartered in San Francisco, California.",
+    "locations": ["San Francisco", "Sydney"],
+    "industries": [
+      "Enterprise Software",
+      "Video",
+      "Machine Learning",
+      "Photography",
+      "Marketplaces",
+      "Artificial Intelligence",
+      "Services",
+      "Photo Sharing",
+      "Photo Editing",
+      "Software",
+      "Content",
+      "Content Creators",
+      "Marketplace"
+    ],
+    "jobs": {
+      "Engineering": 4,
+      "Founder": 14,
+      "Investor": 5,
+      "Marketing": 3,
+      "Product": 1,
+      "Sales": 5
+    }
+  },
+  {
+    "id": 64,
+    "company_name": "AnyRoad",
+    "headline": "Helping brands measure and optimize their experiential marketing programs",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.anyroad.com",
+    "employees": "11-50",
+    "about": "AnyRoad is the leading Experience Relationship Management (ERM) platform enabling global brands to properly measure, scale, and implement their experiential marketing campaigns. AnyRoad helps companies create brand loyalty, change consumer behavior, and better understand their brand associations by providing them with data intelligence sourced from experience-based marketing. Companies like Budweiser, Honda, Michaels, and Tabasco all count on AnyRoad to measure the impact of their experiential marketing. AnyRoad’s software integrates into CRM, loyalty, ERP, and POS systems to complete the loop, building the model of exactly how these experiences build loyalty, increase brand perception, and increase revenue.",
+    "locations": ["San Francisco"],
+    "industries": [
+      "Internet",
+      "SaaS",
+      "Enterprise Software",
+      "Information Technology",
+      "Big Data",
+      "Software",
+      "Data",
+      "Marketing"
+    ],
+    "jobs": { "Engineering": 2, "Marketing": 1, "Sales": 1 }
+  },
+  {
+    "id": 65,
+    "company_name": "Jackpocket",
+    "headline": "Meet your lucky numbers. Play official state lottery games on your phone",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://jackpocket.com/",
+    "employees": "11-50",
+    "about": "Jackpocket is the first third-party app in the U.S. that gives players a secure way to order official state lottery tickets right from their smartphones. We are bringing the $300 billion global lottery industry into the new age of technological innovation through beautiful design, social elements, and gamification. As a no-cost, no-integration, turnkey platform, Jackpocket helps lotteries drive incremental revenue—benefiting essential state programs such as public education, veterans assistance, natural resources, and more—while attracting new customers like millennials who otherwise would not be active lottery players.",
+    "locations": ["New York City", "New York"],
+    "industries": ["Mobile", "Gambling", "PC Gaming"],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 1,
+      "Founder": 21,
+      "Investor": 3,
+      "Marketing": 1,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 66,
+    "company_name": "Hubs",
+    "headline": "Order custom parts online | From prototypes to low-volume production runs",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.hubs.com",
+    "employees": "51-200",
+    "about": "Hubs, formerly 3D Hubs, is an online manufacturing platform that provides engineers with on-demand access to a global network of manufacturing services. Users can easily upload their design, instantly receive a quote, and start production at the click of a button. Founded in Amsterdam in 2013, Hubs was acquired by Protolabs in January 2021. To date, Hubs has produced more than 7 million parts, using various manufacturing technologies, including CNC machining, 3D printing, injection molding and sheet metal fabrication.",
+    "locations": ["Chicago", "Amsterdam", "Paris", "Berlin"],
+    "industries": [
+      "Hardware",
+      "Manufacturing",
+      "Machine Learning",
+      "Marketplaces",
+      "Industrial Automation",
+      "3D Printing"
+    ],
+    "jobs": {
+      "Engineering": 1,
+      "Founder": 2,
+      "Investor": 3,
+      "Marketing": 2,
+      "Product": 2,
+      "Sales": 10
+    }
+  },
+  {
+    "id": 67,
+    "company_name": "Ritual",
+    "headline": "The future of health is clear",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as KAYAK",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://ritual.com",
+    "employees": "51-200",
+    "about": "Since launching in October 2016, Ritual has grown to be a cultural revolution in the health industry. We are dedicated to creating a brand that speaks to a healthy, clean, and no B.S. lifestyle. We’re not about pseudoscience, half-truths or health fads. We are simple, effective and backed by real science. Welcome to your new daily Ritual.",
+    "locations": ["Los Angeles"],
+    "industries": [
+      "Healthcare",
+      "E-Commerce",
+      "Health and Wellness",
+      "Subscription Businesses",
+      "Dietary Supplements",
+      "Subscription",
+      "Ecommerce"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 1,
+      "Investor": 1,
+      "Marketing": 4,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 68,
+    "company_name": "1stdibs.com",
+    "headline": "Luxury Online Marketplace",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Uber",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.1stdibs.com",
+    "employees": "201-500",
+    "about": "1stdibs is the premier luxury marketplace for rare and beautiful objects in furniture, fashion, fine art, and jewelry. We connect the world’s most respected dealers with buyers who share in the pursuit of beautiful design. In doing so we strive to define and shape the future of antique, vintage, and contemporary buying-and-selling. We consider ourselves unique among start-ups. We’ve been around since 2001, yet still exhibit strong entrepreneurial DNA that informs how we operate and function as a company. It helps that we are led by a seasoned executive team that has seen it all: CEO David Rosenblatt formerly ran DoubleClick and negotiated its sale to Google for $3.2 billion. Other executives have held senior roles at eBay, Gilt Groupe, FreshDirect, BarnesandNoble.com, MLB.com, Group Commerce, and Venmo. We are backed by prominent venture capital firms like Benchmark Capital, Index Ventures, Insight Ventures, and Spark Capital. Alibaba Group has also made a significant investment.",
+    "locations": ["New York City", "West New York"],
+    "industries": [
+      "E-Commerce",
+      "Fashion",
+      "Art",
+      "Online Auctions",
+      "Furniture",
+      "Marketplace"
+    ],
+    "jobs": {
+      "Founder": 4,
+      "Investor": 1,
+      "Marketing": 1,
+      "Product": 1,
+      "Sales": 2
+    }
+  },
+  {
+    "id": 69,
+    "company_name": "BenchSci",
+    "headline": "ML platform for reagent selection and experiment design",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Growing fast",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.benchsci.com/",
+    "employees": "51-200",
+    "about": "BenchSci's vision is to bring medicine to patients 50% faster by 2025. The company empowers scientists with the world’s most advanced biomedical artificial intelligence to run more successful experiments. Backed by F-Prime, Gradient Ventures (Google’s AI fund), and Inovia Capital, BenchSci's proprietary technology accelerates science at 15 top 20 pharmaceutical companies and over 4,300 leading research centers worldwide. BenchSci is a CIX Top 10 Growth company, certified Great Place to Work®, and top-ranked company on Glassdoor.",
+    "locations": ["Toronto"],
+    "industries": [
+      "Biotechnology",
+      "Life Sciences",
+      "Pharmaceuticals",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Science"
+    ],
+    "jobs": {
+      "Engineering": 35,
+      "Founder": 2,
+      "Investor": 2,
+      "Marketing": 1,
+      "Product": 1,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 70,
+    "company_name": "Karat",
+    "headline": "We help companies hire smarter and grow faster, and create more opportunities for software engineers",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as KAYAK",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://karat.com/",
+    "employees": "51-200",
+    "about": "Karat’s purpose is to Unlock Opportunity for engineers and companies alike, and our mission is to make every interview predictive, fair, and enjoyable. As the world’s technical hiring expert, we help companies hire smarter and grow faster, and create more opportunities for software engineers. From our industry-leading solutions to Karat’s Brilliant Black Minds program, the work we do here matters. We’re a passionate, smart, and committed team, and we want you to join our mission!",
+    "locations": ["Seattle"],
+    "industries": [
+      "Enterprise Software",
+      "Recruiting",
+      "Software",
+      "Software Engineering"
+    ],
+    "jobs": {
+      "Designer": 2,
+      "Engineering": 2,
+      "Founder": 1,
+      "Investor": 6,
+      "Marketing": 3,
+      "Product": 2,
+      "Sales": 3
+    }
+  },
+  {
+    "id": 71,
+    "company_name": "Sysdig",
+    "headline": "Sysdig is a cloud-native visibility and security company",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.sysdig.com",
+    "employees": "201-500",
+    "about": "Sysdig is the secure DevOps company, and we’re at the forefront of the container and Kubernetes revolution. We are passionate, technical problem-solvers, continually innovating and delivering powerful solutions to secure and operate cloud-native applications in production. Our consistent contributions to open source software projects reflect our commitment to the open cloud movement. We value diversity and open dialog to spur ideas, working closely together to achieve goals. And we're a great place to work too — we were awarded the 2019 Bay Area Best Places to Work Award from San Francisco Business Times and the Silicon Valley Business Journal. We are looking for team members who share our commitment to customers and are willing to dig deeper, understand problems and deliver innovative solutions.",
+    "locations": [
+      "San Francisco",
+      "London",
+      "Raleigh",
+      "Milan",
+      "Belgrade",
+      "Zaragoza"
+    ],
+    "industries": [
+      "Internet",
+      "Cloud Computing",
+      "Analytics",
+      "Open Source",
+      "Software",
+      "Cloud Infrastructure",
+      "Cloud Security",
+      "Application Performance Monitoring",
+      "Infrastructure Monitoring"
+    ],
+    "jobs": {
+      "Engineering": 51,
+      "Founder": 1,
+      "Investor": 4,
+      "Marketing": 13,
+      "Other Engineering": 1,
+      "Product": 7,
+      "Sales": 11
+    }
+  },
+  {
+    "id": 72,
+    "company_name": "Shift Technology",
+    "headline": "Fraud detection",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.shift-technology.com/",
+    "employees": "51-200",
+    "about": "Shift Technology has decided to fight insurance fraud in a totally novel and disruptive way. We are offering a SaaS solution that is easy to integrate, pay-as-you-go, always up-to-date, and leverages our finely tuned mixture of bleeding edge machine learning algorithms and expert knowledge of the insurance business, with a powerful big data analytics platform.",
+    "locations": ["Boston", "Paris"],
+    "industries": [
+      "SaaS",
+      "Information Technology",
+      "Big Data",
+      "Artificial Intelligence",
+      "Insurance",
+      "Software"
+    ],
+    "jobs": { "Engineering": 12, "Founder": 1, "Investor": 3, "Sales": 3 }
+  },
+  {
+    "id": 73,
+    "company_name": "ScienceLogic",
+    "headline": "Empower Intelligent & Automated IT. ScienceLogic/AIOps: IT at speed & scale in real time",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Uber",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.sciencelogic.com",
+    "employees": "201-500",
+    "about": "We are a leader in AIOps providing modern IT Operations with actionable insights to predict and resolve problems faster in a digital, ephemeral world. We empower intelligent and automated IT operations. Our platform enables companies to digitally transform themselves by removing the difficulty of managing complex, distributed IT services. We use patented discovery techniques to find everything in your IT environment, so you get visibility across all technologies and vendors running anywhere in your data centers or clouds. Customers can manage IT environments—at speed, at scale, and in real time.",
+    "locations": ["London", "Reston", "Raleigh", "Sydney", "Remote"],
+    "industries": [
+      "Enterprise Software",
+      "Infrastructure",
+      "Software",
+      "Computers"
+    ],
+    "jobs": {
+      "Engineering": 9,
+      "Founder": 1,
+      "Investor": 5,
+      "Marketing": 1,
+      "Other Engineering": 1,
+      "Product": 1,
+      "Sales": 6
+    }
+  },
+  {
+    "id": 74,
+    "company_name": "Apollo GraphQL",
+    "headline": "Apollo helps engineering teams build unified graphs to accelerate development",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.apollographql.com",
+    "employees": "201-500",
+    "about": "",
+    "locations": ["San Francisco", "Remote"],
+    "industries": [
+      "Enterprise Software",
+      "Open Source",
+      "Developer APIs",
+      "Development Platforms",
+      "Apps",
+      "Software",
+      "Developer Tools"
+    ],
+    "jobs": { "Engineering": 5, "Founder": 1, "Sales": 6 }
+  },
+  {
+    "id": 75,
+    "company_name": "Ripple",
+    "headline": "Build breakthrough crypto solutions for a world without economic borders",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Strong Leadership"
+    ],
+    "website": "http://ripple.com",
+    "employees": "501-1000",
+    "about": "Ripple is a crypto solutions company that transforms how the world moves, manages and tokenizes value. Ripple’s business solutions are faster, more transparent, and more cost effective - solving inefficiencies that have long defined the status quo. And together with partners and the larger developer community, we identify use cases where crypto technology will inspire new business models and create opportunity for more people. With every solution, we’re realizing a more sustainable global economy and planet - increasing access to inclusive and scalable financial systems while leveraging carbon neutral blockchain technology and a green digital asset, XRP. This is how we deliver on our mission to build crypto solutions for a world without economic borders. www.Ripple.com",
+    "locations": [
+      "Dubai",
+      "New York City",
+      "Singapore",
+      "Washington DC",
+      "San Francisco",
+      "London",
+      "Sydney",
+      "Reykjavík",
+      "Mumbai",
+      "São Paulo"
+    ],
+    "industries": [
+      "Internet",
+      "Enterprise Software",
+      "Financial Services",
+      "Payments",
+      "Banking",
+      "Cryptocurrency",
+      "Blockchains",
+      "Software Engineering",
+      "Fin Tech",
+      "Blockchain / Cryptocurrency"
+    ],
+    "jobs": {
+      "Designer": 2,
+      "Engineering": 49,
+      "Founder": 10,
+      "Investor": 8,
+      "Marketing": 9,
+      "Other Engineering": 1,
+      "Product": 5,
+      "Sales": 3
+    }
+  },
+  {
+    "id": 76,
+    "company_name": "tray.io",
+    "headline": "A world where anyone can solve problems without the constraints of technology",
+    "tags": [
+      "Highly rated",
+      "Recently funded",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://tray.io",
+    "employees": "201-500",
+    "about": "Tray.io is a low-code, cloud-first approach to automation. We've built a scalable, resilient, and secure platform that transforms fragmented process into powerful business outcomes. Using the Tray platform, organizations can connect their entire cloud stack using APIs, and thanks to a visual workflow builder, customers can easily create automations that drive their business processes using clicks or code. Our focus is currently on the automation and integration of cloud software, but our bigger goal is to build a platform that is use-case agnostic and supports creating all kinds of software. Our challenge is to build a cutting edge product that is powerful and complete while also being beautiful and easy to use.",
+    "locations": [
+      "Atlanta",
+      "Austin",
+      "California",
+      "Chicago",
+      "Dallas",
+      "Denver",
+      "Detroit",
+      "Durham",
+      "Houston",
+      "New York City",
+      "Washington DC",
+      "San Francisco",
+      "London",
+      "Raleigh",
+      "Chapel Hill",
+      "Sydney"
+    ],
+    "industries": [
+      "SaaS",
+      "Cloud Computing",
+      "Business Intelligence",
+      "Sales Automation",
+      "Software",
+      "Data Integration",
+      "PaaS",
+      "Marketing Automation"
+    ],
+    "jobs": {
+      "Engineering": 9,
+      "Founder": 3,
+      "Investor": 1,
+      "Marketing": 2,
+      "Sales": 3
+    }
+  },
+  {
+    "id": 77,
+    "company_name": "Pixlee TurnTo",
+    "headline": "Grow your business with social proof and word of mouth marketing across all channels",
+    "tags": [
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.pixlee.com",
+    "employees": "51-200",
+    "about": "Companies need to be authentic, relatable, and showcase their shared values to win customers in today’s community-driven economy. At Pixlee TurnTo, we’ve found the best way to do this is use their customers’ stories more effectively. We help companies find the right content, use it with the right audience, and in the right channels - at a scale that transforms companies into community-driven brands. We make using customer stories easy with an AI-driven solution that helps you find compelling content, make it shoppable, and deploy it to the channels where it impacts your customers most. We work with more than 150 brands such as Puma, Alo Yoga, Kimpton Hotels, and Neiman Marcus to develop a more authentic marketing experience and create stronger relationships with their most passionate customers. In early 2021, Pixlee merged with Ratings & Review company TurnTo, to become a combined entity dedicated to building customer-powered commerce. Paving the way for customer-powered commerce, Pixlee TurnTo now allows marketers and ecommerce executives to integrate UGC and Influencer Marketing with text-based customer content like Ratings & Reviews, Checkout Comments, and Community Q&A — without any additional technical resources required. This combination puts the customer at the center of marketing, and creates content proven to boost revenue, brand affinity, and engagement.",
+    "locations": ["San Francisco", "Toronto", "New York"],
+    "industries": [
+      "Mobile",
+      "Digital Media",
+      "Social Media",
+      "E-Commerce",
+      "Advertising",
+      "Big Data",
+      "Brand Marketing"
+    ],
+    "jobs": { "Founder": 1, "Sales": 4 }
+  },
+  {
+    "id": 78,
+    "company_name": "Moxion Power",
+    "headline": "Zero-Emissions Temporary Power as a Service",
+    "tags": [
+      "Actively Hiring",
+      "Growing fast",
+      "Recently funded",
+      "Same investor as Airbnb"
+    ],
+    "website": "https://www.moxionpower.com/",
+    "employees": "11-50",
+    "about": "Meet the next generation of temporary power. Mobile power to support the construction industry, events & entertainment, utilities, EV fleet operators, and government agencies. Moxion Power is the first battery-electric genset manufacturer and all-electric equipment rental business, serving customers in the $93B global construction equipment rental industry. Moxion’s debut product, the MP75, is the first 100% electric \"genset\". Our battery gensets will have the same dimensions, run-times, and performance capabilities as traditional trailer and skid mounted diesel generators, with the added benefits of being clean, perfectly-quiet, and offering superior load flexibility. Moxion's logistics team will remotely monitor our rental units and provide charging & swapping services, so our customers never have to worry about running out of power.",
+    "locations": ["California", "San Francisco"],
+    "industries": [
+      "Energy",
+      "Clean Energy",
+      "Batteries",
+      "Energy Storage",
+      "Sustainability"
+    ],
+    "jobs": {
+      "Engineering": 10,
+      "Founder": 11,
+      "Investor": 13,
+      "Marketing": 1,
+      "Other Engineering": 7,
+      "Product": 1,
+      "Sales": 4
+    }
+  },
+  {
+    "id": 79,
+    "company_name": "AvantStay",
+    "headline": "Empowering groups to create unforgettable experiences in beautiful spaces!",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://avantstay.com",
+    "employees": "501-1000",
+    "about": "AvantStay is the premier next-generation hospitality platform redefining the way in which people travel, transact and invest. AvantStay delivers a highly curated experience customized to guests' needs, using a proprietary tech platform to power bookings, seamlessly operationalize in-field and remote management, and activate authentic and elevated consumer touch points. AvantStay currently operates in over 100 cities, with a drive-to-market approach, including 1,000+ premier properties across their diversified portfolio, and an AUM of more than $2B. In 2019, AvantStay became one of the initial twelve partners of Homes & Villas by Marriott International and currently offers distribution on more than 60 OTAs. Since then, AvantStay's revenue has grown tenfold in the last two years and raised $160 million in Series B funding in late 2021. AvantStay was founded by experienced real estate and technology entrepreneurs Sean Breuner and Reuben Doetsch.",
+    "locations": ["Los Angeles"],
+    "industries": [
+      "Real Estate",
+      "Hospitality",
+      "Tourism",
+      "Technology",
+      "Travel"
+    ],
+    "jobs": { "Founder": 4, "Investor": 35, "Management": 2 }
+  },
+  {
+    "id": 80,
+    "company_name": "Aircall",
+    "headline": "Aircall is the phone system for modern business",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://aircall.io",
+    "employees": "201-500",
+    "about": "Aircall is the phone system for modern business. An entirely cloud-based voice platform that integrates seamlessly with popular productivity and helpdesk tools that workplaces are already using, Aircall was built to make phone support as easy to manage as any other business workflow—accessible, transparent, and collaborative. Aircall believes that voice is the most powerful way to communicate with customers, prospects, candidates, and colleagues, and it is designed to take the headache out of what should be a delightful moment of human connection. Aircall was founded in 2014 and has raised over $100 million. Based in New York and Paris, the company has over 300 employees.",
+    "locations": ["Paris", "New York"],
+    "industries": [
+      "SaaS",
+      "Telecommunications",
+      "Telephony",
+      "Collaboration",
+      "Small and Medium Businesses",
+      "Software",
+      "VoIP",
+      "Customer Support Tools",
+      "Call Center Automation"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 31,
+      "Founder": 16,
+      "Investor": 20,
+      "Marketing": 8,
+      "Product": 1,
+      "Sales": 29
+    }
+  },
+  {
+    "id": 81,
+    "company_name": "LogRocket",
+    "headline": "Replay what users do on your site, helping you reproduce bugs and fix issues faster",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://logrocket.com",
+    "employees": "51-200",
+    "about": "LogRocket was founded in 2016 by Matthew Arbesfeld and Ben Edelstein, a computer science duo who have been building products together since the 3rd grade. Frustrated by how difficult it was to understand their customers' experiences, Arbesfeld and Edelstein set out towards an audacious goal: make every experience on the web as perfect as possible. By recording videos of user sessions along with logs and network data, LogRocket intelligently highlights UX issues and surfaces the root cause of every bug. Backed by top investors like Matrix Partners and Battery Ventures, we're on a mission to improve society's experience with software.",
+    "locations": ["Boston"],
+    "industries": [
+      "SaaS",
+      "Information Technology",
+      "Video",
+      "Information Services",
+      "Design",
+      "Software",
+      "Developer Tools",
+      "Network Security",
+      "Application Performance Monitoring"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 8,
+      "Founder": 2,
+      "Product": 1,
+      "Sales": 4
+    }
+  },
+  {
+    "id": 82,
+    "company_name": "Wellframe",
+    "headline": "Connecting healthcare needs with technology to help make life that much simpler",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.wellframe.com",
+    "employees": "51-200",
+    "about": "We provide care transformation services, a patented engagement platform, clinical programs that support the clinical and social determinants of health, and rigorous measurement. Wellframe translates evidence-based, peer-reviewed guidelines and literature into an interactive daily checklist delivered to patients through the Wellframe mobile app. As patients engage with the Wellframe app, their data is shared in real time with their care team through the care team dashboard, which utilizes advanced algorithms to generate early intervention alerts. With secure two-way messaging, Wellframe facilitates long-term, trusted relationships between patients and care teams.",
+    "locations": ["Boston"],
+    "industries": [
+      "Healthcare",
+      "Information Technology",
+      "Big Data",
+      "Insurance",
+      "Corporate Wellness"
+    ],
+    "jobs": { "Engineering": 5, "Investor": 2 }
+  },
+  {
+    "id": 83,
+    "company_name": "Airtime",
+    "headline": "A live social space where people build communities around shared interests through video,",
+    "tags": [
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://airtime.com",
+    "employees": "51-200",
+    "about": "At Airtime, we’re changing the way people interact online, making the internet a more welcoming and truly social place. Social networks have the power to bring people together, but they have often proven to do the opposite. In a world of social platforms that filter and curate our lives, social media has made us antisocial. That’s why we created Airtime. It’s a new kind of social space. No matter what you’re into—lofi hip hop, airbrush makeup, or improv comedy—drop in any time. There’s a room for you on Airtime that’s always open, live, and ready to welcome you in. Our mission is to empower people to create thriving online communities around shared interests, experiences, and passions.",
+    "locations": ["Los Angeles", "Palo Alto", "New York", "Brooklyn"],
+    "industries": [
+      "Social Media",
+      "Video",
+      "Messaging",
+      "Video Chat",
+      "Video on Demand",
+      "Community Development"
+    ],
+    "jobs": { "Sales": 2 }
+  },
+  {
+    "id": 84,
+    "company_name": "PerformLine",
+    "headline": "Empower compliance leaders with tech to protect their consumers and their brand",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Meta",
+      "Strong Leadership"
+    ],
+    "website": "http://www.performline.com",
+    "employees": "51-200",
+    "about": "PerformLine is a category-leading SaaS company that empowers leaders with end-to-end marketing compliance technology, from automated review of documents to discovery and live monitoring across consumer-facing channels including the web, calls, messaging, emails, and social media. PerformLine powers compliance at some of the world’s largest companies by proactively finding and remediating potential regulatory risks while scaling coverage and gaining efficiencies through automation. PerformLine recently acquired LashBack, the authority and go-to resource for email compliance and intelligence. LashBack is a patent-holder offering proprietary data, expertise and technology to help brands, agencies and advertising networks protect their interests, evaluate partners, and grow their business. Come as you are. We are an equal opportunity workplace celebrating diversity and committed to creating an inclusive and equitable experience for all.",
+    "locations": ["Morristown"],
+    "industries": [
+      "Internet",
+      "SaaS",
+      "Risk Management",
+      "Financial Technology"
+    ],
+    "jobs": { "Engineering": 1, "Founder": 1, "Marketing": 2, "Sales": 1 }
+  },
+  {
+    "id": 85,
+    "company_name": "Riskified",
+    "headline": "Riskified makes eCommerce safe, accessible, and frictionless",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.riskified.com/",
+    "employees": "501-1000",
+    "about": "Riskified is the AI platform powering the eCommerce revolution. We use cutting-edge technology, machine-learning algorithms, and behavioral analytics to identify legitimate customers and keep them moving toward checkout. Merchants use Riskified to increase revenue, prevent fraud, and eliminate customer friction. Riskified has reviewed hundreds of millions of transactions and approved billions of dollars of revenue for merchants across virtually all industries, including a number of Fortune 500 companies.",
+    "locations": ["New York City", "New York", "Tel Aviv-Yafo"],
+    "industries": [
+      "E-Commerce",
+      "Payments",
+      "Machine Learning",
+      "Fraud Detection",
+      "Risk Management",
+      "Fin Tech"
+    ],
+    "jobs": {
+      "Engineering": 6,
+      "Founder": 5,
+      "Investor": 8,
+      "Marketing": 4,
+      "Other Engineering": 3,
+      "Sales": 6
+    }
+  },
+  {
+    "id": 86,
+    "company_name": "InfluxData",
+    "headline": "Realtime visibility into stacks, sensors & systems using open source time series database",
+    "tags": [
+      "Highly rated",
+      "Same investor as Groupon",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://influxdata.com/",
+    "employees": "51-200",
+    "about": "InfluxData provides InfluxEnterprise and InfluxCloud as Modern Time Series Platforms that have been designed from the ground up to handle metrics and events (time-series data). Customers use our products as their: DevOps Monitoring Platform (Monitoring Infrastructure, SaaS, PaaS, Cloud Infrastructure, Containers, Systems and Applications); IoT Data Platform; and Real-Time Analytics Platform.",
+    "locations": ["San Francisco"],
+    "industries": [
+      "Internet",
+      "Information Technology",
+      "Analytics",
+      "Big Data",
+      "Databases",
+      "Data Visualization",
+      "Software",
+      "Internet of Things"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 2,
+      "Investor": 1,
+      "Marketing": 1,
+      "Product": 1,
+      "Sales": 5
+    }
+  },
+  {
+    "id": 87,
+    "company_name": "Panorama Education",
+    "headline": "Panorama’s mission is to radically improve education for every student",
+    "tags": [
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://panoramaed.com",
+    "employees": "201-500",
+    "about": "Panorama is a fast-growing national technology company focused on radically improving education for every student. Over 2,000 school systems serving 15 million students across all 50 states have adopted the Panorama platform to help educators collect data about the academic and non-academic factors that are key to each child’s success in school and in life. On the technical side, we are solving challenges in K-12 education, such as: measuring data across the country’s largest urban schools refining our product’s user experience so that the data is truly useful, actionable information",
+    "locations": ["Boston", "Remote"],
+    "industries": [
+      "SaaS",
+      "Education",
+      "Sales and Marketing",
+      "Analytics",
+      "Big Data",
+      "Software",
+      "Technology",
+      "K-12 Education",
+      "Surveys",
+      "Education Technology",
+      "Software Engineering"
+    ],
+    "jobs": {
+      "Designer": 16,
+      "Engineering": 2,
+      "Founder": 8,
+      "Investor": 2,
+      "Marketing": 2,
+      "Sales": 3
+    }
+  },
+  {
+    "id": 88,
+    "company_name": "BlueVine",
+    "headline": "Empower small businesses with innovative banking designed for them",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.bluevine.com",
+    "employees": "201-500",
+    "about": "BlueVine is on a mission to empower small businesses with innovative banking* designed for them. Small businesses deserve accessible and modern financial services, and traditional banks have underserved them for too long. By combining industry-leading technology and security with our team's expertise and care, we help small businesses spend their time on what matters most—the next chapter of their business. Since 2013, we've provided small and medium-sized businesses with access to more than $5.4 billion in financing. As a top small business banking provider trusted by thousands of small business owners, we're proud to offer a full suite of tailored banking services, including a business checking account, line of credit, and invoice factoring. Headquartered in Redwood City, CA, and with offices in Salt Lake City, Jersey City, New Orleans, Tel Aviv, and Karmiel, we're hiring problem solvers and collaborators to help build a better financial future for small business owners. *BlueVine is a financial technology company, not a bank.",
+    "locations": ["Salt Lake City", "Redwood City", "Jersey City", "Gretna"],
+    "industries": [
+      "Financial Services",
+      "Finance",
+      "Small and Medium Businesses",
+      "Fin Tech"
+    ],
+    "jobs": {
+      "Designer": 3,
+      "Engineering": 17,
+      "Founder": 15,
+      "Investor": 11,
+      "Management": 1,
+      "Marketing": 2,
+      "Product": 4,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 89,
+    "company_name": "Knotch",
+    "headline": "Collect, Own & Action Your Digital Content Data",
+    "tags": [
+      "Highly rated",
+      "Same investor as Meta",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.knotch.it/",
+    "employees": "51-200",
+    "about": "Knotch is the Content Intelligence Platform that enables communications and marketing teams to measure, understand, and optimize content ROI across their digital efforts. We work closely with the following verticals: financial (including JP Morgan Chase & Co., Capital One, Citi, TD, Discover, Ally, Bank of America and Synchrony), automotive (including Ford), telecommunications (including AT&T and Sprint), retail (including Walmart), technology (including Salesforce, HP Inc, HP Enterprise, Citrix, and AWS), and consulting (including Deloitte and PwC.) We are currently expanding quickly into the insurance, fashion and health verticals. We’re based in SoHo, NYC and we're proud to have been named to both Inc.'s Best Places to Work and Built In NYC's Best Places to Work lists two years in a row!",
+    "locations": ["New York City", "New York"],
+    "industries": [
+      "Digital Media",
+      "Advertising",
+      "Analytics",
+      "Big Data",
+      "Brand Marketing",
+      "Software",
+      "Content",
+      "Marketing"
+    ],
+    "jobs": { "Engineering": 1, "Sales": 1 }
+  },
+  {
+    "id": 90,
+    "company_name": "Redox",
+    "headline": "Redox is the modern API for healthcare",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://www.redoxengine.com",
+    "employees": "201-500",
+    "about": "Redox is your hub for managing and scaling healthcare interoperability. Connect with Redox once, then integrate with any organization regardless of vendor, format, or frequency. Cloud applications, affiliate clinics and hospitals, HIEs, registries, EDWs, best-in-class technologies, your top docs’ new toy. Redox brings the power of SaaS interoperability to enable health systems to truly leverage their EHR investment.",
+    "locations": ["Madison", "United States"],
+    "industries": [
+      "Healthcare",
+      "Information Technology",
+      "Health Care Information Technology",
+      "Data Integration",
+      "Electronic Health Records",
+      "Web3"
+    ],
+    "jobs": { "Marketing": 1, "Sales": 4 }
+  },
+  {
+    "id": 91,
+    "company_name": "Hinge Health",
+    "headline": "Every body moving",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Yelp",
+      "Strong Leadership"
+    ],
+    "website": "http://hingehealth.com",
+    "employees": "1001-5000",
+    "about": "One in two people experience debilitating back, neck, shoulder, or joint pain — but traditional treatments have failed to meet their needs. Physical therapy can be expensive and hard to access; appointments often involve long commutes and missed work. Making matters worse, unresolved pain can trigger the overuse of opioids and surgeries. We’re making high-quality care accessible by pairing wearable sensors and computer vision with a world-class clinical team. Hinge Health puts a digital clinic in every member's pocket. Now millions of people can access personalized digital care from a physical therapist, guidance on behavior change from a health coach, and expert consultations with an orthopedic surgeon. With a single app and wearable technology like our Enso device, we’re helping to reduce pain, surgeries, and opioid use. Join us in reimagining healthcare from the ground up and empowering people to move beyond pain.",
+    "locations": [
+      "Brazil",
+      "Canada",
+      "Chile",
+      "San Francisco",
+      "Colombia",
+      "Mexico City"
+    ],
+    "industries": [
+      "Healthcare",
+      "Medical",
+      "Fitness",
+      "Corporate Wellness",
+      "Technology",
+      "Health and Wellness",
+      "Employer Benefits Programs",
+      "Digital Health",
+      "Software Engineering"
+    ],
+    "jobs": {
+      "Designer": 45,
+      "Engineering": 29,
+      "Founder": 6,
+      "Investor": 19,
+      "Marketing": 11,
+      "Other Engineering": 6,
+      "Product": 4,
+      "Sales": 11
+    }
+  },
+  {
+    "id": 92,
+    "company_name": "Paddle",
+    "headline": "We help SaaS companies navigate the revenue journey at every stage",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://paddle.com",
+    "employees": "201-500",
+    "about": "Paddle offers SaaS companies a completely different approach to their payments infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers, taking away 100% of the pain of payments fragmentation. It’s faster, safer, cheaper, and, above all, way better. We have over 230+ talented employees serving over 3000 software sellers in 245 territories globally. Backed by investors including FTV Capital, Kindred, Notion, and 83North, Paddle aims to define the next wave of B2B SaaS leaders.",
+    "locations": ["New York City", "London", "Porto", "Remote"],
+    "industries": [
+      "Internet",
+      "SaaS",
+      "E-Commerce",
+      "Analytics",
+      "Payments",
+      "Apps",
+      "Software"
+    ],
+    "jobs": { "Founder": 1, "Investor": 1, "Sales": 1 }
+  },
+  {
+    "id": 93,
+    "company_name": "Ordergroove",
+    "headline": "Frictionless relationship commerce generating recurring revenue for retailers and brands",
+    "tags": [
+      "Actively Hiring",
+      "Recently funded",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.ordergroove.com",
+    "employees": "51-200",
+    "about": "In 2000, subscriptions transformed the software world with SaaS. In 2021, subscriptions are transforming the retail and DTC world as the fastest growing segment of commerce. Ordergroove’s SaaS product enables subscription experiences for hundreds of brands including The Honest Company, IL MAKIAGE, KIND Snacks, Peet's Coffee, L'Oreal, and Home Depot, shifting consumer interactions from one-and-done transactions to frictionless recurring revenue relationships. Via partnerships with leading eCommerce platforms like Shopify, Salesforce, Adobe Magento and BigCommerce, Ordergroove's omnichannel product coupled with machine learning has processed billions of dollars in subscription volume for tens of millions of consumers. Recently named one of the 2019 and 2020’s Best Companies to Work For in New York, our values celebrate collaboration, different perspectives and curiosity with the goal of getting to the right answer, no matter who came up with it. At Ordergroove we are committed to creating a welcoming and supportive environment for all people. We encourage people with different backgrounds and experiences to join our growing team so that we gain different perspectives and build the best team possible. We demand the best of ourselves and each other and never miss an opportunity to celebrate our successes. With a flexible work from anywhere culture, staying connected and supporting each other are always top of mind We build our tight-knit community through small group events like trivia night, cooking classes and book clubs. We encourage cross-functional relationships through virtual coffees and we stay close to the business through weekly team updates and quarterly all hands meetings. We have flexible PTO, and an annual personal development budget that you use for what matters to you (wellness, career development, productivity at home, etc).",
+    "locations": ["New York City", "New York"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "E-Commerce",
+      "B2B",
+      "Artificial Intelligence",
+      "Subscription"
+    ],
+    "jobs": {
+      "Engineering": 4,
+      "Founder": 2,
+      "Investor": 1,
+      "Marketing": 2,
+      "Product": 1,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 94,
+    "company_name": "YipitData",
+    "headline": "A remote-first company with employees across the globe. Inc's Best Workplaces 2020~2022",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "https://yipitdata.com/",
+    "employees": "201-500",
+    "about": "YipitData is the leading market research firm for the disruptive economy and recently raised $475M from The Carlyle Group at a valuation of over $1B. We analyze billions of data points every day to provide accurate, detailed insights on ridesharing, e-commerce marketplaces, payments and more. Our on-demand insights team uses proprietary technology to identify, license, clean and analyze the data many of the world’s largest investment funds and corporations depend on. We are one of Inc’s Best Workplaces - a fast-growing technology company with offices located in NYC (where we are based in), Hong Kong, and Shanghai, backed by The Carlyle Group and Norwest Venture Partners with a strong culture focused on mastery, ownership, and transparency.",
+    "locations": ["New York City", "New York", "Remote"],
+    "industries": [
+      "Financial Services",
+      "Analytics",
+      "Software",
+      "Finance Technology",
+      "Data",
+      "Fin Tech"
+    ],
+    "jobs": {
+      "Engineering": 4,
+      "Founder": 3,
+      "Investor": 11,
+      "Marketing": 1,
+      "Product": 2,
+      "Sales": 29
+    }
+  },
+  {
+    "id": 95,
+    "company_name": "Memfault",
+    "headline": "Empowering IoT device developers to build more reliable software",
+    "tags": [
+      "Actively Hiring",
+      "Growing fast",
+      "Recently funded",
+      "Same investor as Airbnb"
+    ],
+    "website": "https://memfault.com",
+    "employees": "11-50",
+    "about": "Memfault is the first IoT reliability platform that empowers teams to build more robust devices with software at scale. We believe that device reliability engineering will transform how developers build and operate IoT and edge devices with more productivity and more collaboration. As IoT applications continue to grow in complexity, it is more important than ever for developers to have Memfault’s performance monitoring, device debugging, and OTA update capabilities built into their fleet of devices for proactive device operations. We built Memfault to enable developers with a more scalable and sustainable process to accelerate go-to-market, de-risk product launches, cut product costs, and deliver overall superior products. Memfault is founded by ex-Fitbit, Pebble, and Oculus engineers who know the industry well and have been wrestling with these problems for 15+ years.",
+    "locations": ["Boston", "San Francisco", "Berlin"],
+    "industries": [
+      "Consumer Electronics",
+      "Industrial Automation",
+      "Embedded Hardware and Software",
+      "Developer Tools",
+      "Internet of Things",
+      "Smart Building",
+      "Hardware + Software",
+      "Home Automation",
+      "Smart City",
+      "Smart Home"
+    ],
+    "jobs": {
+      "Designer": 1,
+      "Engineering": 8,
+      "Founder": 4,
+      "Investor": 4,
+      "Marketing": 3,
+      "Product": 1,
+      "Sales": 15
+    }
+  },
+  {
+    "id": 96,
+    "company_name": "Change.org",
+    "headline": "The world's leading platform for social change",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Same investor as Twitter",
+      "Work / Life Balance"
+    ],
+    "website": "http://www.change.org",
+    "employees": "51-200",
+    "about": "Change.org is the world's largest technology platform for social change. Our goal is to empower people everywhere to start campaigns around the issues they care about, mobilize others, and work with decision makers to drive solutions. We’re also an innovative business – a \"social enterprise” and a certified B Corporation, with a business model designed to support positive social impact (more about B Corps: www.bcorporation.net). Over 200 million people have started and signed petitions, and our users win nearly one victory per hour, including strengthening hate crime legislation in South Africa; fighting corruption in Indonesia, Italy, and Brazil; ending the ban on gay Boy Scouts in the United States, and big wins for women’s rights in India. And we’re just getting started. Here’s a small snapshot of some of the victories our users have had:",
+    "locations": [
+      "San Francisco",
+      "Washington",
+      "Paris",
+      "Brooklyn",
+      "Victoria"
+    ],
+    "industries": ["Internet", "Non Profit", "Curated Web", "Civic Tech"],
+    "jobs": {
+      "Designer": 3,
+      "Engineering": 8,
+      "Founder": 2,
+      "Investor": 5,
+      "Marketing": 5,
+      "Sales": 1
+    }
+  },
+  {
+    "id": 97,
+    "company_name": "Hipcamp",
+    "headline": "Book unique camping experiences on over 300,000 campsites, cabins, rv parks, public parks and more",
+    "tags": [
+      "Highly rated",
+      "Same investor as Twitter",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.hipcamp.com",
+    "employees": "11-50",
+    "about": "Hipcamp is a marketplace connecting campers and land. We are bringing the world's public campsites online, unlocking private lands for camping, and getting more people outside. Our mission is to get more people outside by increasing access to the outdoors. Discover Hipcamp for yourself:",
+    "locations": ["San Francisco"],
+    "industries": [
+      "Marketplaces",
+      "Online Reservations",
+      "Outdoors",
+      "Content",
+      "Travel",
+      "Content Discovery"
+    ],
+    "jobs": { "Engineering": 1, "Founder": 1, "Product": 1 }
+  },
+  {
+    "id": 98,
+    "company_name": "Bolt",
+    "headline": "Bolt democratizes commerce by making online buying easy, trusted & consistent for millions",
+    "tags": [
+      "Highly rated",
+      "Same investor as Airbnb",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://bolt.com/",
+    "employees": "501-1000",
+    "about": "The world’s first checkout experience platform, Bolt offers a lightning-fast, one-click checkout, and connects millions of shoppers to retailers through a unified, cross-brand network. Hundreds of forward-thinking retailers like Forever 21, Badgley Mischka, Milk Makeup, and more rely on Bolt to convert, retain, and delight shoppers.",
+    "locations": [
+      "New York City",
+      "San Francisco",
+      "Toronto",
+      "Salt Lake City"
+    ],
+    "industries": [
+      "Enterprise Software",
+      "Financial Services",
+      "E-Commerce",
+      "Payments",
+      "Mobile Payments",
+      "Fraud Detection",
+      "Fin Tech"
+    ],
+    "jobs": { "Engineering": 4 }
+  },
+  {
+    "id": 99,
+    "company_name": "Cherre",
+    "headline": "The real estate industry’s leading data management and analytics platform",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://www.cherre.com",
+    "employees": "51-200",
+    "about": "Cherre is the leader in real estate data and insight. We connect decision makers to accurate property and market information, and help them make faster, smarter decisions. By providing a unique “single source of truth,” Cherre empowers customers to evaluate opportunities and trends faster and more accurately, while saving millions of dollars in manual data collection and analytics costs.",
+    "locations": ["New York City"],
+    "industries": [
+      "SaaS",
+      "Real Estate",
+      "Big Data",
+      "Artificial Intelligence",
+      "Data Integration",
+      "Cloud Data Services",
+      "Commercial Real Estate",
+      "Big Data Analytics",
+      "Real Estate Technology",
+      "Data",
+      "Residential Real Estate",
+      "Property And Casualty Insurance Companies",
+      "Insurtech",
+      "Artificial Intelligence / Machine Learning",
+      "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+    ],
+    "jobs": { "Engineering": 4, "Founder": 1, "Sales": 4 }
+  },
+  {
+    "id": 100,
+    "company_name": "Groove.co",
+    "headline": "Groove is the leading sales engagement platform for enterprises using Salesforce",
+    "tags": [
+      "Actively Hiring",
+      "Highly rated",
+      "Work / Life Balance",
+      "Strong Leadership"
+    ],
+    "website": "http://groove.co/",
+    "employees": "51-200",
+    "about": "Groove is the leading sales engagement platform for enterprises using Salesforce, specializing in ease-of-use, ease-of-administration, and cross-team collaboration. Built for the needs of full-cycle sellers, Groove automates non-sales activities so that reps can spend more time building relationships and generating revenue. Groove’s Salesforce-native architecture can be customized to align with industry specific workflows while ensuring more accurate reporting and forecasting, lower compliance risk and streamlined administration. Over 50,000 account executive, sales development, and customer success representatives use Groove at some of the world’s largest and fastest-growing companies, including Google, Uber, BBVA, and Capital One. To learn more, visit groove.co.",
+    "locations": ["San Diego", "Seattle", "San Francisco"],
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Sales and Marketing",
+      "CRM",
+      "Sales Automation",
+      "Software",
+      "Sales"
+    ],
+    "jobs": { "Engineering": 6, "Founder": 2, "Sales": 4 }
+  }
+]
