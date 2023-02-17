@@ -1,9 +1,12 @@
 import Head from "next/head";
-import companies from "../../data/data.json";
-import Image from "next/image";
 import Hero from "components/Hero/Hero";
+import Companies from "components/Companies/Companies";
+import { useRef } from "react";
+import Search from "components/Search/Search";
 
 export default function Home() {
+  const companiesRef = useRef(null);
+
   return (
     <>
       <Head>
@@ -12,23 +15,20 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="p-8">
-        {/* <h1>Top Tech Startups Hiring 2023</h1> */}
-        <Hero />
-        {/* {companies.map((item, index) => {
-          return (
-            <div key={index}>
-              <h1>{item.company_name}</h1>
-              <p>{item.headline}</p>
-              <Image
-                src={`/images/images/${item.id}.jpg`}
-                alt="MF Logo"
-                width={100}
-                height={100}
-              />
-            </div>
-          );
-        })} */}
+      <main className="p-8 flex flex-col">
+        <div className="h-screen flex justify-center items-center">
+          <Hero
+            onScrollClick={() => {
+              window.scrollTo({
+                top: 800,
+                behavior: "smooth",
+              });
+            }}
+          />
+        </div>
+        <div ref={companiesRef}>
+          <Companies />
+        </div>
       </main>
     </>
   );
