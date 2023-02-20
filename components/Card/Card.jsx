@@ -7,7 +7,7 @@ import { Avatar, Card } from "antd";
 const { Meta } = Card;
 import Image from "next/image";
 
-export default function MyCard({ src, title, description }) {
+export default function MyCard({ src, title, description, avatarSrc }) {
   return (
     <>
       <Card
@@ -24,7 +24,9 @@ export default function MyCard({ src, title, description }) {
         }
       >
         <Meta
-          avatar={<Avatar src="https://joeschmoe.io/api/v1/random" />}
+          avatar={
+            <Avatar src={avatarSrc || "https://joeschmoe.io/api/v1/random"} />
+          }
           title={title || "TITLE"}
           description={description || "DESCRIPTION"}
         />
