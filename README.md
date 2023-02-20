@@ -1,5 +1,7 @@
 ### Tech Startups hiring in 2023
 
+## Description
+
 A simple minisite which displays renders the list of tech startups hiring in 2023. The list is fetched from Kaggle.
 
 ## Data used

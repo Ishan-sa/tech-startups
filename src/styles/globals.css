@@ -19,3 +19,13 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 } */
+
+.hero-top {
+  display: flex;
+}
+
+@media screen and (max-width: 768px) {
+  .hero-top {
+    flex-direction: column;
+  }
+}
