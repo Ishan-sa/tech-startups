@@ -22,10 +22,15 @@ body {
 
 .hero-top {
   display: flex;
+  /* height: 100vh; */
 }
 
 @media screen and (max-width: 768px) {
   .hero-top {
     flex-direction: column;
+    /* padding: 0 20px; */
+  }
+  .lottie-tech {
+    width: 300px !important;
   }
 }
