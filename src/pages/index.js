@@ -42,7 +42,7 @@ export default function Home({ data }) {
 
       {!loading && (
         <main className="p-8 flex flex-col" id="main-tag-testing">
-          <div className="h-screen flex justify-center items-center">
+          <div className="flex justify-center items-center">
             <Hero
               onScrollClick={() => {
                 window.scrollTo({

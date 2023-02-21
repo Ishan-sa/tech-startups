@@ -7,7 +7,7 @@ export default function Hero({ onScrollClick = () => {} }) {
     <>
       <div className="flex px-8 flex-col">
         <div className="hero-top">
-          <div className="hero-home flex flex-col justify-center items-start max-w-[600px] m-auto min-h-[60vh]">
+          <div className="flex flex-col justify-center items-start max-w-[600px] m-auto min-h-[60vh]">
             <div className="flex flex-col gap-2">
               <h1 className="text-5xl font-semibold text-[#2b2b2b] leading-[3.5rem]">
                 TOP TECH STARTUPS <br /> HIRING <br /> 2023
@@ -41,6 +41,7 @@ export default function Hero({ onScrollClick = () => {} }) {
                 width: 500,
                 height: 500,
               }}
+              className="lottie-tech"
             />
           </div>
         </div>
