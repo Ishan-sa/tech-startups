@@ -1,11 +1,11 @@
 import Head from "next/head";
 import Hero from "components/Hero/Hero";
 import { useRef } from "react";
-import axios from "axios";
 import MyCard from "../../components/Card/Card";
 import Link from "next/link";
 import Lottie from "lottie-react";
 import { useState, useEffect } from "react";
+import data from "../../data/data.json";
 
 export default function Home({ data }) {
   const companiesRef = useRef(null);
@@ -79,8 +79,6 @@ export default function Home({ data }) {
 }
 
 export const getServerSideProps = async () => {
-  const res = await axios.get("http://localhost:3000/api/companies");
-  const data = await res.data;
   return {
     props: {
       data,

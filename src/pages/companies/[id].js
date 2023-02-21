@@ -1,12 +1,9 @@
-import axios from "axios";
 import Image from "next/image";
 import Link from "next/link";
 import Head from "next/head";
+import data from "../../../data/data.json";
 
 export const getStaticPaths = async () => {
-  const res = await axios.get("http://localhost:3000/api/companies");
-  const data = await res.data;
-
   const paths = data.map((company) => {
     return {
       params: { id: company.id.toString() },
@@ -21,13 +18,11 @@ export const getStaticPaths = async () => {
 
 export const getStaticProps = async (context) => {
   const id = context.params.id;
-  const res = await axios.get(`http://localhost:3000/api/companies/${id}`);
-  const data = await res.data;
 
-  // const company = data.find((company) => company.id === id);
+  const company = data.find((company) => company.id == id);
 
   return {
-    props: { company: data },
+    props: { company },
   };
 };
 
