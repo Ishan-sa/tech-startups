@@ -63,7 +63,10 @@ export default function Details({ company }) {
                 <p className="text-sm text-gray-700">{company.headline}</p>
                 <div className="flex flex-wrap">
                   {company.tags.map((tag) => (
-                    <span className="mr-2 mb-2 py-1 px-2 rounded-lg bg-[#cbffe4] text-[#26503a] text-xs font-medium span-test">
+                    <span
+                      key={tag.id}
+                      className="mr-2 mb-2 py-1 px-2 rounded-lg bg-[#cbffe4] text-[#26503a] text-xs font-medium span-test"
+                    >
                       {tag}
                     </span>
                   ))}
@@ -113,7 +116,10 @@ export default function Details({ company }) {
                   id="job-card-container-parent-test"
                 >
                   {Object.entries(company.jobs).map(([jobTitle, jobCount]) => (
-                    <div className="bg-gray-50 p-4 rounded-lg">
+                    <div
+                      key={company.jobs.id}
+                      className="bg-gray-50 p-4 rounded-lg"
+                    >
                       <h3 className="text-base font-medium text-gray-900">
                         {jobTitle}
                       </h3>
